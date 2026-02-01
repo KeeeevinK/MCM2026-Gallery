@@ -1,0 +1,40 @@
+{
+  "topic": "20_网络流优化",
+  "generated_at": "2026-02-01T23:21:32.248186",
+  "total_images": 2,
+  "images": [
+    {
+      "filename": "1601_02323v3_p8_img1.png",
+      "arxiv_id": "1601.02323v3",
+      "title": "Optimal Power Flow with Inelastic Demands for Demand Response in Radial Distribution Networks",
+      "authors": [
+        "Majid Khonji",
+        "Chi-Kin Chau",
+        "Khaled Elbassioni"
+      ],
+      "published": "2016-01-11",
+      "arxiv_url": "http://arxiv.org/abs/1601.02323v3",
+      "pdf_url": "https://arxiv.org/pdf/1601.02323v3",
+      "page": 8,
+      "image_index": 1,
+      "file_size": 8800,
+      "format": "png"
+    },
+    {
+      "filename": "1011_2843v2_p22_img1.jpeg",
+      "arxiv_id": "1011.2843v2",
+      "title": "Improved Minimum Cuts and Maximum Flows in Undirected Planar Graphs",
+      "authors": [
+        "Giuseppe F. Italiano",
+        "Piotr Sankowski"
+      ],
+      "published": "2010-11-12",
+      "arxiv_url": "http://arxiv.org/abs/1011.2843v2",
+      "pdf_url": "https://arxiv.org/pdf/1011.2843v2",
+      "page": 22,
+      "image_index": 1,
+      "file_size": 120403,
+      "format": "jpeg"
+    }
+  ]
+}

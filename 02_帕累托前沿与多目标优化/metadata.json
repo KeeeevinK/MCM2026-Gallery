@@ -1,0 +1,653 @@
+{
+  "topic": "02_帕累托前沿与多目标优化",
+  "generated_at": "2026-02-01T23:08:52.484415",
+  "total_images": 39,
+  "images": [
+    {
+      "filename": "2410_05787v2_p4_img1.jpeg",
+      "arxiv_id": "2410.05787v2",
+      "title": "An accelerate Prediction Strategy for Dynamic Multi-Objective Optimization",
+      "authors": [
+        "Ru Lei",
+        "Lin Li",
+        "Rustam Stolkin"
+      ],
+      "published": "2024-10-08",
+      "arxiv_url": "http://arxiv.org/abs/2410.05787v2",
+      "pdf_url": "https://arxiv.org/pdf/2410.05787v2",
+      "page": 4,
+      "image_index": 1,
+      "file_size": 31132,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2410_05787v2_p4_img2.jpeg",
+      "arxiv_id": "2410.05787v2",
+      "title": "An accelerate Prediction Strategy for Dynamic Multi-Objective Optimization",
+      "authors": [
+        "Ru Lei",
+        "Lin Li",
+        "Rustam Stolkin"
+      ],
+      "published": "2024-10-08",
+      "arxiv_url": "http://arxiv.org/abs/2410.05787v2",
+      "pdf_url": "https://arxiv.org/pdf/2410.05787v2",
+      "page": 4,
+      "image_index": 2,
+      "file_size": 26140,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2410_05787v2_p4_img3.jpeg",
+      "arxiv_id": "2410.05787v2",
+      "title": "An accelerate Prediction Strategy for Dynamic Multi-Objective Optimization",
+      "authors": [
+        "Ru Lei",
+        "Lin Li",
+        "Rustam Stolkin"
+      ],
+      "published": "2024-10-08",
+      "arxiv_url": "http://arxiv.org/abs/2410.05787v2",
+      "pdf_url": "https://arxiv.org/pdf/2410.05787v2",
+      "page": 4,
+      "image_index": 3,
+      "file_size": 20912,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2410_05787v2_p4_img5.jpeg",
+      "arxiv_id": "2410.05787v2",
+      "title": "An accelerate Prediction Strategy for Dynamic Multi-Objective Optimization",
+      "authors": [
+        "Ru Lei",
+        "Lin Li",
+        "Rustam Stolkin"
+      ],
+      "published": "2024-10-08",
+      "arxiv_url": "http://arxiv.org/abs/2410.05787v2",
+      "pdf_url": "https://arxiv.org/pdf/2410.05787v2",
+      "page": 4,
+      "image_index": 5,
+      "file_size": 17901,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2410_05787v2_p10_img1.jpeg",
+      "arxiv_id": "2410.05787v2",
+      "title": "An accelerate Prediction Strategy for Dynamic Multi-Objective Optimization",
+      "authors": [
+        "Ru Lei",
+        "Lin Li",
+        "Rustam Stolkin"
+      ],
+      "published": "2024-10-08",
+      "arxiv_url": "http://arxiv.org/abs/2410.05787v2",
+      "pdf_url": "https://arxiv.org/pdf/2410.05787v2",
+      "page": 10,
+      "image_index": 1,
+      "file_size": 461942,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2410_05787v2_p10_img2.jpeg",
+      "arxiv_id": "2410.05787v2",
+      "title": "An accelerate Prediction Strategy for Dynamic Multi-Objective Optimization",
+      "authors": [
+        "Ru Lei",
+        "Lin Li",
+        "Rustam Stolkin"
+      ],
+      "published": "2024-10-08",
+      "arxiv_url": "http://arxiv.org/abs/2410.05787v2",
+      "pdf_url": "https://arxiv.org/pdf/2410.05787v2",
+      "page": 10,
+      "image_index": 2,
+      "file_size": 26469,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2410_05787v2_p10_img3.jpeg",
+      "arxiv_id": "2410.05787v2",
+      "title": "An accelerate Prediction Strategy for Dynamic Multi-Objective Optimization",
+      "authors": [
+        "Ru Lei",
+        "Lin Li",
+        "Rustam Stolkin"
+      ],
+      "published": "2024-10-08",
+      "arxiv_url": "http://arxiv.org/abs/2410.05787v2",
+      "pdf_url": "https://arxiv.org/pdf/2410.05787v2",
+      "page": 10,
+      "image_index": 3,
+      "file_size": 26762,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2410_05787v2_p10_img4.jpeg",
+      "arxiv_id": "2410.05787v2",
+      "title": "An accelerate Prediction Strategy for Dynamic Multi-Objective Optimization",
+      "authors": [
+        "Ru Lei",
+        "Lin Li",
+        "Rustam Stolkin"
+      ],
+      "published": "2024-10-08",
+      "arxiv_url": "http://arxiv.org/abs/2410.05787v2",
+      "pdf_url": "https://arxiv.org/pdf/2410.05787v2",
+      "page": 10,
+      "image_index": 4,
+      "file_size": 24144,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2410_05787v2_p10_img5.jpeg",
+      "arxiv_id": "2410.05787v2",
+      "title": "An accelerate Prediction Strategy for Dynamic Multi-Objective Optimization",
+      "authors": [
+        "Ru Lei",
+        "Lin Li",
+        "Rustam Stolkin"
+      ],
+      "published": "2024-10-08",
+      "arxiv_url": "http://arxiv.org/abs/2410.05787v2",
+      "pdf_url": "https://arxiv.org/pdf/2410.05787v2",
+      "page": 10,
+      "image_index": 5,
+      "file_size": 23775,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2410_05787v2_p10_img6.jpeg",
+      "arxiv_id": "2410.05787v2",
+      "title": "An accelerate Prediction Strategy for Dynamic Multi-Objective Optimization",
+      "authors": [
+        "Ru Lei",
+        "Lin Li",
+        "Rustam Stolkin"
+      ],
+      "published": "2024-10-08",
+      "arxiv_url": "http://arxiv.org/abs/2410.05787v2",
+      "pdf_url": "https://arxiv.org/pdf/2410.05787v2",
+      "page": 10,
+      "image_index": 6,
+      "file_size": 33946,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2410_05787v2_p10_img7.jpeg",
+      "arxiv_id": "2410.05787v2",
+      "title": "An accelerate Prediction Strategy for Dynamic Multi-Objective Optimization",
+      "authors": [
+        "Ru Lei",
+        "Lin Li",
+        "Rustam Stolkin"
+      ],
+      "published": "2024-10-08",
+      "arxiv_url": "http://arxiv.org/abs/2410.05787v2",
+      "pdf_url": "https://arxiv.org/pdf/2410.05787v2",
+      "page": 10,
+      "image_index": 7,
+      "file_size": 26846,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2410_05787v2_p10_img8.jpeg",
+      "arxiv_id": "2410.05787v2",
+      "title": "An accelerate Prediction Strategy for Dynamic Multi-Objective Optimization",
+      "authors": [
+        "Ru Lei",
+        "Lin Li",
+        "Rustam Stolkin"
+      ],
+      "published": "2024-10-08",
+      "arxiv_url": "http://arxiv.org/abs/2410.05787v2",
+      "pdf_url": "https://arxiv.org/pdf/2410.05787v2",
+      "page": 10,
+      "image_index": 8,
+      "file_size": 27518,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2410_05787v2_p10_img9.jpeg",
+      "arxiv_id": "2410.05787v2",
+      "title": "An accelerate Prediction Strategy for Dynamic Multi-Objective Optimization",
+      "authors": [
+        "Ru Lei",
+        "Lin Li",
+        "Rustam Stolkin"
+      ],
+      "published": "2024-10-08",
+      "arxiv_url": "http://arxiv.org/abs/2410.05787v2",
+      "pdf_url": "https://arxiv.org/pdf/2410.05787v2",
+      "page": 10,
+      "image_index": 9,
+      "file_size": 27639,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2008_10797v2_p2_img1.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 2,
+      "image_index": 1,
+      "file_size": 27996,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p3_img1.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 3,
+      "image_index": 1,
+      "file_size": 16558,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p3_img2.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 3,
+      "image_index": 2,
+      "file_size": 17633,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p5_img1.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 5,
+      "image_index": 1,
+      "file_size": 15129,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p5_img2.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 5,
+      "image_index": 2,
+      "file_size": 15493,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p23_img1.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 23,
+      "image_index": 1,
+      "file_size": 50536,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p23_img2.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 23,
+      "image_index": 2,
+      "file_size": 43845,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p23_img3.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 23,
+      "image_index": 3,
+      "file_size": 42251,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p23_img4.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 23,
+      "image_index": 4,
+      "file_size": 29356,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p24_img1.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 24,
+      "image_index": 1,
+      "file_size": 47948,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p24_img2.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 24,
+      "image_index": 2,
+      "file_size": 43153,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p24_img3.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 24,
+      "image_index": 3,
+      "file_size": 37165,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p24_img4.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 24,
+      "image_index": 4,
+      "file_size": 29504,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p25_img1.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 25,
+      "image_index": 1,
+      "file_size": 53320,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p25_img2.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 25,
+      "image_index": 2,
+      "file_size": 41445,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p25_img3.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 25,
+      "image_index": 3,
+      "file_size": 53727,
+      "format": "png"
+    },
+    {
+      "filename": "2008_10797v2_p25_img4.png",
+      "arxiv_id": "2008.10797v2",
+      "title": "The Fairness-Accuracy Pareto Front",
+      "authors": [
+        "Susan Wei",
+        "Marc Niethammer"
+      ],
+      "published": "2020-08-25",
+      "arxiv_url": "http://arxiv.org/abs/2008.10797v2",
+      "pdf_url": "https://arxiv.org/pdf/2008.10797v2",
+      "page": 25,
+      "image_index": 4,
+      "file_size": 42866,
+      "format": "png"
+    },
+    {
+      "filename": "2401_08822v1_p2_img1.png",
+      "arxiv_id": "2401.08822v1",
+      "title": "An Empirical Study of Counterfactual Visualization to Support Visual Causal Inference",
+      "authors": [
+        "Arran Zeyu Wang",
+        "David Borland",
+        "David Gotz"
+      ],
+      "published": "2024-01-16",
+      "arxiv_url": "http://arxiv.org/abs/2401.08822v1",
+      "pdf_url": "https://arxiv.org/pdf/2401.08822v1",
+      "page": 2,
+      "image_index": 1,
+      "file_size": 111395,
+      "format": "png"
+    },
+    {
+      "filename": "2401_08822v1_p4_img1.png",
+      "arxiv_id": "2401.08822v1",
+      "title": "An Empirical Study of Counterfactual Visualization to Support Visual Causal Inference",
+      "authors": [
+        "Arran Zeyu Wang",
+        "David Borland",
+        "David Gotz"
+      ],
+      "published": "2024-01-16",
+      "arxiv_url": "http://arxiv.org/abs/2401.08822v1",
+      "pdf_url": "https://arxiv.org/pdf/2401.08822v1",
+      "page": 4,
+      "image_index": 1,
+      "file_size": 39281,
+      "format": "png"
+    },
+    {
+      "filename": "2401_08822v1_p6_img1.png",
+      "arxiv_id": "2401.08822v1",
+      "title": "An Empirical Study of Counterfactual Visualization to Support Visual Causal Inference",
+      "authors": [
+        "Arran Zeyu Wang",
+        "David Borland",
+        "David Gotz"
+      ],
+      "published": "2024-01-16",
+      "arxiv_url": "http://arxiv.org/abs/2401.08822v1",
+      "pdf_url": "https://arxiv.org/pdf/2401.08822v1",
+      "page": 6,
+      "image_index": 1,
+      "file_size": 192577,
+      "format": "png"
+    },
+    {
+      "filename": "2401_08822v1_p7_img1.png",
+      "arxiv_id": "2401.08822v1",
+      "title": "An Empirical Study of Counterfactual Visualization to Support Visual Causal Inference",
+      "authors": [
+        "Arran Zeyu Wang",
+        "David Borland",
+        "David Gotz"
+      ],
+      "published": "2024-01-16",
+      "arxiv_url": "http://arxiv.org/abs/2401.08822v1",
+      "pdf_url": "https://arxiv.org/pdf/2401.08822v1",
+      "page": 7,
+      "image_index": 1,
+      "file_size": 14396,
+      "format": "png"
+    },
+    {
+      "filename": "2401_08822v1_p8_img1.png",
+      "arxiv_id": "2401.08822v1",
+      "title": "An Empirical Study of Counterfactual Visualization to Support Visual Causal Inference",
+      "authors": [
+        "Arran Zeyu Wang",
+        "David Borland",
+        "David Gotz"
+      ],
+      "published": "2024-01-16",
+      "arxiv_url": "http://arxiv.org/abs/2401.08822v1",
+      "pdf_url": "https://arxiv.org/pdf/2401.08822v1",
+      "page": 8,
+      "image_index": 1,
+      "file_size": 16073,
+      "format": "png"
+    },
+    {
+      "filename": "2401_08822v1_p8_img2.png",
+      "arxiv_id": "2401.08822v1",
+      "title": "An Empirical Study of Counterfactual Visualization to Support Visual Causal Inference",
+      "authors": [
+        "Arran Zeyu Wang",
+        "David Borland",
+        "David Gotz"
+      ],
+      "published": "2024-01-16",
+      "arxiv_url": "http://arxiv.org/abs/2401.08822v1",
+      "pdf_url": "https://arxiv.org/pdf/2401.08822v1",
+      "page": 8,
+      "image_index": 2,
+      "file_size": 69797,
+      "format": "png"
+    },
+    {
+      "filename": "2401_08822v1_p9_img1.png",
+      "arxiv_id": "2401.08822v1",
+      "title": "An Empirical Study of Counterfactual Visualization to Support Visual Causal Inference",
+      "authors": [
+        "Arran Zeyu Wang",
+        "David Borland",
+        "David Gotz"
+      ],
+      "published": "2024-01-16",
+      "arxiv_url": "http://arxiv.org/abs/2401.08822v1",
+      "pdf_url": "https://arxiv.org/pdf/2401.08822v1",
+      "page": 9,
+      "image_index": 1,
+      "file_size": 350157,
+      "format": "png"
+    },
+    {
+      "filename": "2401_08822v1_p9_img2.png",
+      "arxiv_id": "2401.08822v1",
+      "title": "An Empirical Study of Counterfactual Visualization to Support Visual Causal Inference",
+      "authors": [
+        "Arran Zeyu Wang",
+        "David Borland",
+        "David Gotz"
+      ],
+      "published": "2024-01-16",
+      "arxiv_url": "http://arxiv.org/abs/2401.08822v1",
+      "pdf_url": "https://arxiv.org/pdf/2401.08822v1",
+      "page": 9,
+      "image_index": 2,
+      "file_size": 335916,
+      "format": "png"
+    },
+    {
+      "filename": "2401_08822v1_p10_img1.png",
+      "arxiv_id": "2401.08822v1",
+      "title": "An Empirical Study of Counterfactual Visualization to Support Visual Causal Inference",
+      "authors": [
+        "Arran Zeyu Wang",
+        "David Borland",
+        "David Gotz"
+      ],
+      "published": "2024-01-16",
+      "arxiv_url": "http://arxiv.org/abs/2401.08822v1",
+      "pdf_url": "https://arxiv.org/pdf/2401.08822v1",
+      "page": 10,
+      "image_index": 1,
+      "file_size": 45225,
+      "format": "png"
+    }
+  ]
+}

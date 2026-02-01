@@ -1,0 +1,71 @@
+{
+  "topic": "01_太空电梯与月球运输",
+  "generated_at": "2026-02-01T23:08:42.829888",
+  "total_images": 4,
+  "images": [
+    {
+      "filename": "0909_1509v1_p1_img1.jpeg",
+      "arxiv_id": "0909.1509v1",
+      "title": "Science from the Moon: The NASA/NLSI Lunar University Network for Astrophysics Research (LUNAR)",
+      "authors": [
+        "Jack O. Burns",
+        "the LUNAR Consortium"
+      ],
+      "published": "2009-09-08",
+      "arxiv_url": "http://arxiv.org/abs/0909.1509v1",
+      "pdf_url": "https://arxiv.org/pdf/0909.1509v1",
+      "page": 1,
+      "image_index": 1,
+      "file_size": 43679,
+      "format": "jpeg"
+    },
+    {
+      "filename": "0909_1509v1_p3_img1.png",
+      "arxiv_id": "0909.1509v1",
+      "title": "Science from the Moon: The NASA/NLSI Lunar University Network for Astrophysics Research (LUNAR)",
+      "authors": [
+        "Jack O. Burns",
+        "the LUNAR Consortium"
+      ],
+      "published": "2009-09-08",
+      "arxiv_url": "http://arxiv.org/abs/0909.1509v1",
+      "pdf_url": "https://arxiv.org/pdf/0909.1509v1",
+      "page": 3,
+      "image_index": 1,
+      "file_size": 402323,
+      "format": "png"
+    },
+    {
+      "filename": "0909_1509v1_p3_img2.png",
+      "arxiv_id": "0909.1509v1",
+      "title": "Science from the Moon: The NASA/NLSI Lunar University Network for Astrophysics Research (LUNAR)",
+      "authors": [
+        "Jack O. Burns",
+        "the LUNAR Consortium"
+      ],
+      "published": "2009-09-08",
+      "arxiv_url": "http://arxiv.org/abs/0909.1509v1",
+      "pdf_url": "https://arxiv.org/pdf/0909.1509v1",
+      "page": 3,
+      "image_index": 2,
+      "file_size": 19567,
+      "format": "png"
+    },
+    {
+      "filename": "0909_1509v1_p6_img1.jpeg",
+      "arxiv_id": "0909.1509v1",
+      "title": "Science from the Moon: The NASA/NLSI Lunar University Network for Astrophysics Research (LUNAR)",
+      "authors": [
+        "Jack O. Burns",
+        "the LUNAR Consortium"
+      ],
+      "published": "2009-09-08",
+      "arxiv_url": "http://arxiv.org/abs/0909.1509v1",
+      "pdf_url": "https://arxiv.org/pdf/0909.1509v1",
+      "page": 6,
+      "image_index": 1,
+      "file_size": 30785,
+      "format": "jpeg"
+    }
+  ]
+}

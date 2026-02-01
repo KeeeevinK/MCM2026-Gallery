@@ -1,0 +1,440 @@
+{
+  "topic": "05_Sobol全局敏感性",
+  "generated_at": "2026-02-01T23:09:29.035243",
+  "total_images": 27,
+  "images": [
+    {
+      "filename": "1912_11070v2_p16_img1.png",
+      "arxiv_id": "1912.11070v2",
+      "title": "Risk of estimators for Sobol' sensitivity indices based on metamodels",
+      "authors": [
+        "Ivan I. Panin"
+      ],
+      "published": "2019-12-23",
+      "arxiv_url": "http://arxiv.org/abs/1912.11070v2",
+      "pdf_url": "https://arxiv.org/pdf/1912.11070v2",
+      "page": 16,
+      "image_index": 1,
+      "file_size": 13149,
+      "format": "png"
+    },
+    {
+      "filename": "1912_11070v2_p28_img1.png",
+      "arxiv_id": "1912.11070v2",
+      "title": "Risk of estimators for Sobol' sensitivity indices based on metamodels",
+      "authors": [
+        "Ivan I. Panin"
+      ],
+      "published": "2019-12-23",
+      "arxiv_url": "http://arxiv.org/abs/1912.11070v2",
+      "pdf_url": "https://arxiv.org/pdf/1912.11070v2",
+      "page": 28,
+      "image_index": 1,
+      "file_size": 331854,
+      "format": "png"
+    },
+    {
+      "filename": "1912_11070v2_p28_img2.png",
+      "arxiv_id": "1912.11070v2",
+      "title": "Risk of estimators for Sobol' sensitivity indices based on metamodels",
+      "authors": [
+        "Ivan I. Panin"
+      ],
+      "published": "2019-12-23",
+      "arxiv_url": "http://arxiv.org/abs/1912.11070v2",
+      "pdf_url": "https://arxiv.org/pdf/1912.11070v2",
+      "page": 28,
+      "image_index": 2,
+      "file_size": 328697,
+      "format": "png"
+    },
+    {
+      "filename": "1912_11070v2_p29_img1.png",
+      "arxiv_id": "1912.11070v2",
+      "title": "Risk of estimators for Sobol' sensitivity indices based on metamodels",
+      "authors": [
+        "Ivan I. Panin"
+      ],
+      "published": "2019-12-23",
+      "arxiv_url": "http://arxiv.org/abs/1912.11070v2",
+      "pdf_url": "https://arxiv.org/pdf/1912.11070v2",
+      "page": 29,
+      "image_index": 1,
+      "file_size": 365361,
+      "format": "png"
+    },
+    {
+      "filename": "1912_11070v2_p29_img2.png",
+      "arxiv_id": "1912.11070v2",
+      "title": "Risk of estimators for Sobol' sensitivity indices based on metamodels",
+      "authors": [
+        "Ivan I. Panin"
+      ],
+      "published": "2019-12-23",
+      "arxiv_url": "http://arxiv.org/abs/1912.11070v2",
+      "pdf_url": "https://arxiv.org/pdf/1912.11070v2",
+      "page": 29,
+      "image_index": 2,
+      "file_size": 417813,
+      "format": "png"
+    },
+    {
+      "filename": "1912_11070v2_p30_img1.png",
+      "arxiv_id": "1912.11070v2",
+      "title": "Risk of estimators for Sobol' sensitivity indices based on metamodels",
+      "authors": [
+        "Ivan I. Panin"
+      ],
+      "published": "2019-12-23",
+      "arxiv_url": "http://arxiv.org/abs/1912.11070v2",
+      "pdf_url": "https://arxiv.org/pdf/1912.11070v2",
+      "page": 30,
+      "image_index": 1,
+      "file_size": 358415,
+      "format": "png"
+    },
+    {
+      "filename": "1912_11070v2_p30_img2.png",
+      "arxiv_id": "1912.11070v2",
+      "title": "Risk of estimators for Sobol' sensitivity indices based on metamodels",
+      "authors": [
+        "Ivan I. Panin"
+      ],
+      "published": "2019-12-23",
+      "arxiv_url": "http://arxiv.org/abs/1912.11070v2",
+      "pdf_url": "https://arxiv.org/pdf/1912.11070v2",
+      "page": 30,
+      "image_index": 2,
+      "file_size": 368569,
+      "format": "png"
+    },
+    {
+      "filename": "1912_11070v2_p31_img1.png",
+      "arxiv_id": "1912.11070v2",
+      "title": "Risk of estimators for Sobol' sensitivity indices based on metamodels",
+      "authors": [
+        "Ivan I. Panin"
+      ],
+      "published": "2019-12-23",
+      "arxiv_url": "http://arxiv.org/abs/1912.11070v2",
+      "pdf_url": "https://arxiv.org/pdf/1912.11070v2",
+      "page": 31,
+      "image_index": 1,
+      "file_size": 428913,
+      "format": "png"
+    },
+    {
+      "filename": "1912_11070v2_p31_img2.png",
+      "arxiv_id": "1912.11070v2",
+      "title": "Risk of estimators for Sobol' sensitivity indices based on metamodels",
+      "authors": [
+        "Ivan I. Panin"
+      ],
+      "published": "2019-12-23",
+      "arxiv_url": "http://arxiv.org/abs/1912.11070v2",
+      "pdf_url": "https://arxiv.org/pdf/1912.11070v2",
+      "page": 31,
+      "image_index": 2,
+      "file_size": 402190,
+      "format": "png"
+    },
+    {
+      "filename": "1912_11070v2_p31_img3.png",
+      "arxiv_id": "1912.11070v2",
+      "title": "Risk of estimators for Sobol' sensitivity indices based on metamodels",
+      "authors": [
+        "Ivan I. Panin"
+      ],
+      "published": "2019-12-23",
+      "arxiv_url": "http://arxiv.org/abs/1912.11070v2",
+      "pdf_url": "https://arxiv.org/pdf/1912.11070v2",
+      "page": 31,
+      "image_index": 3,
+      "file_size": 406492,
+      "format": "png"
+    },
+    {
+      "filename": "1912_11070v2_p32_img1.png",
+      "arxiv_id": "1912.11070v2",
+      "title": "Risk of estimators for Sobol' sensitivity indices based on metamodels",
+      "authors": [
+        "Ivan I. Panin"
+      ],
+      "published": "2019-12-23",
+      "arxiv_url": "http://arxiv.org/abs/1912.11070v2",
+      "pdf_url": "https://arxiv.org/pdf/1912.11070v2",
+      "page": 32,
+      "image_index": 1,
+      "file_size": 357424,
+      "format": "png"
+    },
+    {
+      "filename": "1912_11070v2_p32_img2.png",
+      "arxiv_id": "1912.11070v2",
+      "title": "Risk of estimators for Sobol' sensitivity indices based on metamodels",
+      "authors": [
+        "Ivan I. Panin"
+      ],
+      "published": "2019-12-23",
+      "arxiv_url": "http://arxiv.org/abs/1912.11070v2",
+      "pdf_url": "https://arxiv.org/pdf/1912.11070v2",
+      "page": 32,
+      "image_index": 2,
+      "file_size": 392108,
+      "format": "png"
+    },
+    {
+      "filename": "1912_11070v2_p32_img3.png",
+      "arxiv_id": "1912.11070v2",
+      "title": "Risk of estimators for Sobol' sensitivity indices based on metamodels",
+      "authors": [
+        "Ivan I. Panin"
+      ],
+      "published": "2019-12-23",
+      "arxiv_url": "http://arxiv.org/abs/1912.11070v2",
+      "pdf_url": "https://arxiv.org/pdf/1912.11070v2",
+      "page": 32,
+      "image_index": 3,
+      "file_size": 375284,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p9_img1.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 9,
+      "image_index": 1,
+      "file_size": 104528,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p9_img2.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 9,
+      "image_index": 2,
+      "file_size": 95709,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p10_img1.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 10,
+      "image_index": 1,
+      "file_size": 77317,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p11_img1.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 11,
+      "image_index": 1,
+      "file_size": 284548,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p11_img2.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 11,
+      "image_index": 2,
+      "file_size": 48819,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p11_img3.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 11,
+      "image_index": 3,
+      "file_size": 43533,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p11_img4.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 11,
+      "image_index": 4,
+      "file_size": 51077,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p11_img5.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 11,
+      "image_index": 5,
+      "file_size": 255027,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p11_img6.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 11,
+      "image_index": 6,
+      "file_size": 268415,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p11_img7.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 11,
+      "image_index": 7,
+      "file_size": 47814,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p11_img8.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 11,
+      "image_index": 8,
+      "file_size": 135043,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p13_img1.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 13,
+      "image_index": 1,
+      "file_size": 410651,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p14_img1.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 14,
+      "image_index": 1,
+      "file_size": 279201,
+      "format": "png"
+    },
+    {
+      "filename": "2107_09538v1_p15_img1.png",
+      "arxiv_id": "2107.09538v1",
+      "title": "Adaptively Sampling via Regional Variance-Based Sensitivities",
+      "authors": [
+        "Brian W. Bush",
+        "Joanne Wendelberger",
+        "Rebecca Hanes"
+      ],
+      "published": "2021-07-20",
+      "arxiv_url": "http://arxiv.org/abs/2107.09538v1",
+      "pdf_url": "https://arxiv.org/pdf/2107.09538v1",
+      "page": 15,
+      "image_index": 1,
+      "file_size": 433565,
+      "format": "png"
+    }
+  ]
+}

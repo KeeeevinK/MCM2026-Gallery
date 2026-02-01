@@ -1,0 +1,135 @@
+[
+  {
+    "id": "2-SA-sobol-VVUQ2025",
+    "suggested_filename": "2_sobol_sensitivity_reactor_ASME_2025_Fig3.png",
+    "author": "M. Rausch et al.",
+    "year": "2025",
+    "paper_title": "Sensitivity Analysis and Uncertainty Quantification of a Digital Twin",
+    "journal": "VVUQ2025 Conference",
+    "figure_number": "Figure 3",
+    "source_url": "https://asmedigitalcollection.asme.org/VVS/proceedings/VVUQ2025/88742/V001T01A003/1219407",
+    "theme": "主题2",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 5.0,
+      "reproducibility": 4.0,
+      "topic_match": 5.0,
+      "source_reliability": 5.0,
+      "overall": 4.8
+    }
+  },
+  {
+    "id": "2-SA-sobol-solar-AGU2022",
+    "suggested_filename": "2_sobol_indices_solarwind_Wiley_2022_Fig2.png",
+    "author": "A. Consortium et al.",
+    "year": "2022",
+    "paper_title": "Global Sensitivity Analysis for Background Solar Wind",
+    "journal": "AGU/Wiley",
+    "figure_number": "Figure 2",
+    "source_url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022SW003262",
+    "theme": "主题2",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 4.0,
+      "reproducibility": 4.0,
+      "topic_match": 4.0,
+      "source_reliability": 5.0,
+      "overall": 4.4
+    }
+  },
+  {
+    "id": "2-FA-fanchart-CBR_2014",
+    "suggested_filename": "2_fanchart_inflation_CBR_2014_Fig2.png",
+    "author": "Bratu/CBR Romania",
+    "year": "2014",
+    "paper_title": "Fan chart or Monte Carlo simulations for assessing forecast uncertainty",
+    "journal": "Central Bank Review",
+    "figure_number": "Figure 2",
+    "source_url": "https://hrcak.srce.hr/file/252816",
+    "theme": "主题2",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 5.0,
+      "reproducibility": 5.0,
+      "topic_match": 5.0,
+      "source_reliability": 4.0,
+      "overall": 4.6
+    }
+  },
+  {
+    "id": "2-FA-fanplot-UNL2012",
+    "suggested_filename": "2_fanchart_boe_fanplot_UNL_2012_Fig3-5.png",
+    "author": "Ellis & Smith",
+    "year": "2012",
+    "paper_title": "fanplot: An R Package for Visualising Sequential Distributions",
+    "journal": "R Journal",
+    "figure_number": "Figures 3-5",
+    "source_url": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1451&context=r-journal",
+    "theme": "主题2",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 5.0,
+      "reproducibility": 5.0,
+      "topic_match": 4.0,
+      "source_reliability": 4.0,
+      "overall": 4.6
+    }
+  },
+  {
+    "id": "2-RD-ridgeline_UCL2003",
+    "suggested_filename": "2_ridgeline_density_UCL_2003_Fig2.png",
+    "author": "Hennig & Christmann",
+    "year": "2003",
+    "paper_title": "Ridgeline plot and clusterwise stability as tools for merging",
+    "journal": "UCL Technical Report",
+    "figure_number": "Figure 2",
+    "source_url": "http://www.homepages.ucl.ac.uk/~ucakche/papers/hennigmergeifcs.pdf",
+    "theme": "主题2",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 4.0,
+      "reproducibility": 4.0,
+      "topic_match": 3.0,
+      "source_reliability": 4.0,
+      "overall": 3.8
+    }
+  },
+  {
+    "id": "2-SA-sobol-sampling-Sandia_2023",
+    "suggested_filename": "2_sobol_sampling_comparison_Sandia_2023_Fig3.png",
+    "author": "Rausch & Sanders",
+    "year": "2023",
+    "paper_title": "Sensitivity Analysis and Uncertainty Quantification using Dakota",
+    "journal": "Sandia Labs Report",
+    "figure_number": "Figure 3",
+    "source_url": "https://www.sandia.gov/app/uploads/sites/241/2023/04/DakotaTraining_SensitivityAnalysis.pdf",
+    "theme": "主题2",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 4.0,
+      "reproducibility": 5.0,
+      "topic_match": 5.0,
+      "source_reliability": 5.0,
+      "overall": 4.6
+    }
+  },
+  {
+    "id": "2-MC-tornado-LinkedIn2025",
+    "suggested_filename": "2_tornado_sensitivity_LinkedIn_2025_Fig1.png",
+    "author": "D. Carvalho",
+    "year": "2025",
+    "paper_title": "Decoding Monte Carlo Simulation Results",
+    "journal": "LinkedIn Article",
+    "figure_number": "Figure 1",
+    "source_url": "https://www.linkedin.com/pulse/decoding-monte-carlo-simulation-results-complete-guide-carvalho--ij26f",
+    "theme": "主题2",
+    "scores": {
+      "scientific_quality": 3.0,
+      "info_density": 4.0,
+      "reproducibility": 4.0,
+      "topic_match": 4.0,
+      "source_reliability": 2.0,
+      "overall": 3.4
+    }
+  }
+]

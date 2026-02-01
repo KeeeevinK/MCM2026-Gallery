@@ -1,0 +1,78 @@
+[
+  {
+    "id": "7-SE-network_flow_NASA1988",
+    "suggested_filename": "7_network_flow_model_NASA_1988_Fig2.png",
+    "author": "NASA Transportation Office",
+    "year": "1988",
+    "paper_title": "A Space Transportation System Operations Model",
+    "journal": "NASA TM-88",
+    "figure_number": "Figure 2",
+    "source_url": "https://ntrs.nasa.gov/api/citations/19880005617/downloads/19880005617.pdf",
+    "theme": "主题7",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 4.0,
+      "reproducibility": 4.0,
+      "topic_match": 4.0,
+      "source_reliability": 5.0,
+      "overall": 4.2
+    }
+  },
+  {
+    "id": "7-SE-tradespace_orbit_NASA2016",
+    "suggested_filename": "7_trajectory_tradespace_NASA_2016_Fig1.png",
+    "author": "J. Bradley & R. Cheng",
+    "year": "2016",
+    "paper_title": "Augmenting Conceptual Design Trajectory Tradespace Exploration",
+    "journal": "NASA CR",
+    "figure_number": "Figure 1",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20160012096/downloads/20160012096.pdf",
+    "theme": "主题7",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 4.0,
+      "reproducibility": 3.0,
+      "topic_match": 4.0,
+      "source_reliability": 5.0,
+      "overall": 4.0
+    }
+  },
+  {
+    "id": "7-SE-scanned-network_NASA2012",
+    "suggested_filename": "7_scanned_network_traffic_NASA_2012_Fig3.png",
+    "author": "L. Wood et al.",
+    "year": "2012",
+    "paper_title": "End-to-End Traffic Flow Modeling of Integrated SCaN Network",
+    "journal": "NASA TDA Report 189C",
+    "figure_number": "Figure 3",
+    "source_url": "https://tda.jpl.nasa.gov/progress_report/42-189/189C.pdf",
+    "theme": "主题7",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 5.0,
+      "reproducibility": 2.0,
+      "topic_match": 3.0,
+      "source_reliability": 5.0,
+      "overall": 3.8
+    }
+  },
+  {
+    "id": "7-SE-dsm_earth_NASA2014",
+    "suggested_filename": "7_distributed_space_mission_NASA_2014_Fig2.png",
+    "author": "C. Hinkle et al.",
+    "year": "2014",
+    "paper_title": "Distributed Space Mission Design using MBSE",
+    "journal": "NASA CR",
+    "figure_number": "Figure 2",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20140016561/downloads/20140016561.pdf",
+    "theme": "主题7",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 4.0,
+      "reproducibility": 3.0,
+      "topic_match": 3.0,
+      "source_reliability": 5.0,
+      "overall": 3.8
+    }
+  }
+]

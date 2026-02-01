@@ -1,0 +1,116 @@
+[
+  {
+    "id": "3-LCA-embodiedcarbon_MDPI2022",
+    "suggested_filename": "3_lca_embodied_carbon_MDPI_2022_Fig3.png",
+    "author": "L. Kubus et al.",
+    "year": "2022",
+    "paper_title": "Life Cycle Assessment of Embodied Carbon - High-Rise Residential",
+    "journal": "Buildings 12(8)",
+    "figure_number": "Figure 3",
+    "source_url": "https://www.mdpi.com/2075-5309/12/8/1203/pdf",
+    "theme": "主题3",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 5.0,
+      "reproducibility": 4.0,
+      "topic_match": 4.0,
+      "source_reliability": 4.0,
+      "overall": 4.2
+    }
+  },
+  {
+    "id": "3-LCA-bim-Hindawi2015",
+    "suggested_filename": "3_lca_carbon_bim_Hindawi_2015_Fig5.png",
+    "author": "Ding et al.",
+    "year": "2015",
+    "paper_title": "Case Study of Carbon Emissions from a Building's Life Cycle",
+    "journal": "AJSE/Hindawi",
+    "figure_number": "Figure 5",
+    "source_url": "http://downloads.hindawi.com/journals/amse/2015/954651.pdf",
+    "theme": "主题3",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 4.0,
+      "reproducibility": 3.0,
+      "topic_match": 3.0,
+      "source_reliability": 3.0,
+      "overall": 3.4
+    }
+  },
+  {
+    "id": "3-LCA-framework_Springer2021",
+    "suggested_filename": "3_lca_framework_Springer_2021_Fig2.png",
+    "author": "I. Simão et al.",
+    "year": "2021",
+    "paper_title": "Life Cycle Assessment Framework for Embodied Environmental Impacts",
+    "journal": "Sustainability 13(2)",
+    "figure_number": "Figure 2",
+    "source_url": "https://www.mdpi.com/2071-1050/13/2/461/pdf",
+    "theme": "主题3",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 4.0,
+      "reproducibility": 4.0,
+      "topic_match": 4.0,
+      "source_reliability": 4.0,
+      "overall": 4.0
+    }
+  },
+  {
+    "id": "3-LCA-visualization_MDPI2023",
+    "suggested_filename": "3_lca_visualization_tools_MDPI_2023_Fig6.png",
+    "author": "Helias & Fava",
+    "year": "2023",
+    "paper_title": "Visualization and Interpretation of LCSA - Existing Tools",
+    "journal": "Sustainability 15(13)",
+    "figure_number": "Figure 6",
+    "source_url": "https://www.mdpi.com/2071-1050/15/13/10658/pdf",
+    "theme": "主题3",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 5.0,
+      "reproducibility": 4.0,
+      "topic_match": 5.0,
+      "source_reliability": 5.0,
+      "overall": 4.8
+    }
+  },
+  {
+    "id": "3-LCA-stackedbar_Idaho2019",
+    "suggested_filename": "3_lca_stacked_biomass_UIdaho_2019_Fig8.png",
+    "author": "Y. Wan et al.",
+    "year": "2019",
+    "paper_title": "Life Cycle Assessment of Carbon Capture Membrane",
+    "journal": "University of Idaho PhD",
+    "figure_number": "Figure 8",
+    "source_url": "https://objects.lib.uidaho.edu/etd/pdf/Nilkar_idaho_0089N_12665.pdf",
+    "theme": "主题3",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 5.0,
+      "reproducibility": 4.0,
+      "topic_match": 4.0,
+      "source_reliability": 3.0,
+      "overall": 4.0
+    }
+  },
+  {
+    "id": "3-LCA-carbon_catalog_Nature2022",
+    "suggested_filename": "3_lca_carbon_product_Nature_2022_Fig1.png",
+    "author": "E. Ng et al.",
+    "year": "2022",
+    "paper_title": "The Carbon Catalogue - 866 Commercial Products PCF",
+    "journal": "Nature/PMC",
+    "figure_number": "Figure 1",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8927124/",
+    "theme": "主题3",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 5.0,
+      "reproducibility": 3.0,
+      "topic_match": 3.0,
+      "source_reliability": 5.0,
+      "overall": 4.0
+    }
+  }
+]

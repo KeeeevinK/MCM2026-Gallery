@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1-MO-Deb-2021",
+    "suggested_filename": "1_pareto_isom_visualization_MSU_2021_Fig2.png",
+    "author": "Kalyanmoy Deb et al.",
+    "year": "2021",
+    "paper_title": "Visualization and Analysis of Pareto-optimal Fronts using iSOM",
+    "journal": "COIN Report 2021019",
+    "figure_number": "Figure 2",
+    "source_url": "https://www.egr.msu.edu/~kdeb/papers/c2021019.pdf",
+    "theme": "主题1",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 5.0,
+      "reproducibility": 5.0,
+      "topic_match": 5.0,
+      "source_reliability": 5.0,
+      "overall": 5.0
+    }
+  },
+  {
+    "id": "1-MO-Deb-2021B",
+    "suggested_filename": "1_pareto_isom_componentplanes_MSU_2021_Fig3.png",
+    "author": "Kalyanmoy Deb et al.",
+    "year": "2021",
+    "paper_title": "Visualization and Analysis of Pareto-optimal Fronts using iSOM",
+    "journal": "COIN Report 2021019",
+    "figure_number": "Figure 3",
+    "source_url": "https://www.egr.msu.edu/~kdeb/papers/c2021019.pdf",
+    "theme": "主题1",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 5.0,
+      "reproducibility": 5.0,
+      "topic_match": 4.0,
+      "source_reliability": 5.0,
+      "overall": 4.8
+    }
+  },
+  {
+    "id": "1-MO-Deb-2021C",
+    "suggested_filename": "1_pareto_clustermap_MSU_2021_Fig4.png",
+    "author": "Kalyanmoy Deb et al.",
+    "year": "2021",
+    "paper_title": "Visualization and Analysis of Pareto-optimal Fronts using iSOM",
+    "journal": "COIN Report 2021019",
+    "figure_number": "Figure 4",
+    "source_url": "https://www.egr.msu.edu/~kdeb/papers/c2021019.pdf",
+    "theme": "主题1",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 4.0,
+      "reproducibility": 4.0,
+      "topic_match": 4.0,
+      "source_reliability": 5.0,
+      "overall": 4.4
+    }
+  },
+  {
+    "id": "1-MO-Ishibuchi-2016",
+    "suggested_filename": "1_pareto_dtlz_manifold_Osaka_2016_Fig1.png",
+    "author": "Hisao Ishibuchi et al.",
+    "year": "2016",
+    "paper_title": "Performance Comparison of NSGA-II and NSGA-III",
+    "journal": "CEC2016",
+    "figure_number": "Figure 1",
+    "source_url": "https://ci-labo-omu.github.io/assets/paper/pdf_file/multiobjective/CEC2016_NSGA-III_Final.pdf",
+    "theme": "主题1",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 4.0,
+      "reproducibility": 5.0,
+      "topic_match": 4.0,
+      "source_reliability": 4.0,
+      "overall": 4.2
+    }
+  },
+  {
+    "id": "1-MO-Ishibuchi-2016B",
+    "suggested_filename": "1_pareto_parallel_coordinates_Osaka_2016_Fig7-9.png",
+    "author": "Hisao Ishibuchi et al.",
+    "year": "2016",
+    "paper_title": "Performance Comparison of NSGA-II and NSGA-III",
+    "journal": "CEC2016",
+    "figure_number": "Figures 7-9",
+    "source_url": "https://ci-labo-omu.github.io/assets/paper/pdf_file/multiobjective/CEC2016_NSGA-III_Final.pdf",
+    "theme": "主题1",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 5.0,
+      "reproducibility": 4.0,
+      "topic_match": 4.0,
+      "source_reliability": 4.0,
+      "overall": 4.2
+    }
+  },
+  {
+    "id": "1-MO-Li-2024",
+    "suggested_filename": "1_pareto_building_optimization_MDPI_2024_Fig5.png",
+    "author": "Hongbo Li et al.",
+    "year": "2024",
+    "paper_title": "Multi-Objective Optimization in Construction Project Management Based on NSGA-III",
+    "journal": "Buildings (MDPI) 14(7)",
+    "figure_number": "Figure 5",
+    "source_url": "https://www.mdpi.com/2075-5309/14/7/2112",
+    "theme": "主题1",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 4.0,
+      "reproducibility": 4.0,
+      "topic_match": 3.0,
+      "source_reliability": 5.0,
+      "overall": 4.2
+    }
+  },
+  {
+    "id": "1-MO-uam-2025",
+    "suggested_filename": "1_pareto_uam_corridors_MDPI_2025_Fig8.png",
+    "author": "Chao Sun et al.",
+    "year": "2025",
+    "paper_title": "Designing an Urban Air Mobility Corridor Network using U-NSGA-III",
+    "journal": "Aerospace 12(3)",
+    "figure_number": "Figure 8",
+    "source_url": "https://www.mdpi.com/2226-4310/12/3/229",
+    "theme": "主题1",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 5.0,
+      "reproducibility": 4.0,
+      "topic_match": 3.0,
+      "source_reliability": 5.0,
+      "overall": 4.4
+    }
+  },
+  {
+    "id": "1-MO-RadViz3D-2023",
+    "suggested_filename": "1_pareto_3d_radviz_academia_2023_Fig2.png",
+    "author": "Unknown (RadViz variant)",
+    "year": "2023",
+    "paper_title": "3D-RadVis: Visualization of Pareto front in many-objective optimization",
+    "journal": "Academia.edu",
+    "figure_number": "Figure 2",
+    "source_url": "https://www.academia.edu/97813533/3D_RadVis_Visualization_of_Pareto_front_in_many_objective_optimization",
+    "theme": "主题1",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 5.0,
+      "reproducibility": 3.0,
+      "topic_match": 4.0,
+      "source_reliability": 3.0,
+      "overall": 3.8
+    }
+  }
+]

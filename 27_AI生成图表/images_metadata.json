@@ -1,0 +1,1026 @@
+[
+  {
+    "filename": "korean_a1_space_elevator.png",
+    "style": "korean",
+    "theme": "a",
+    "types": [
+      "concept"
+    ],
+    "title": "太空电梯概念图",
+    "series": "A1",
+    "originalPath": "images/korean/A_Background/korean_a1_space_elevator.png"
+  },
+  {
+    "filename": "korean_a2_three_ports.png",
+    "style": "korean",
+    "theme": "a",
+    "types": [
+      "map"
+    ],
+    "title": "赤道三港分布",
+    "series": "A2",
+    "originalPath": "images/korean/A_Background/korean_a2_three_ports.png"
+  },
+  {
+    "filename": "korean_a3_global_spaceports.png",
+    "style": "korean",
+    "theme": "a",
+    "types": [
+      "map"
+    ],
+    "title": "全球发射场分布",
+    "series": "A3",
+    "originalPath": "images/korean/A_Background/korean_a3_global_spaceports.png"
+  },
+  {
+    "filename": "korean_a4_deltav_budget.png",
+    "style": "korean",
+    "theme": "a",
+    "types": [
+      "network"
+    ],
+    "title": "Δv 预算图",
+    "series": "A4",
+    "originalPath": "images/korean/A_Background/korean_a4_deltav_budget.png"
+  },
+  {
+    "filename": "korean_b1_network_flow.png",
+    "style": "korean",
+    "theme": "b",
+    "types": [
+      "network",
+      "flow"
+    ],
+    "title": "多层网络流图",
+    "series": "B1",
+    "originalPath": "images/korean/B_MILP/korean_b1_network_flow.png"
+  },
+  {
+    "filename": "korean_b2_augmecon.png",
+    "style": "korean",
+    "theme": "b",
+    "types": [
+      "flow"
+    ],
+    "title": "AUGMECON 流程",
+    "series": "B2",
+    "originalPath": "images/korean/B_MILP/korean_b2_augmecon.png"
+  },
+  {
+    "filename": "korean_b3_pareto_front.png",
+    "style": "korean",
+    "theme": "b",
+    "types": [
+      "pareto"
+    ],
+    "title": "Pareto 前沿",
+    "series": "B3",
+    "originalPath": "images/korean/B_MILP/korean_b3_pareto_front.png"
+  },
+  {
+    "filename": "korean_b4_heatmap.png",
+    "style": "korean",
+    "theme": "b",
+    "types": [
+      "heatmap"
+    ],
+    "title": "容量分配热力图",
+    "series": "B4",
+    "originalPath": "images/korean/B_MILP/korean_b4_heatmap.png"
+  },
+  {
+    "filename": "korean_b5_sankey.png",
+    "style": "korean",
+    "theme": "b",
+    "types": [
+      "sankey"
+    ],
+    "title": "物料流 Sankey",
+    "series": "B5",
+    "originalPath": "images/korean/B_MILP/korean_b5_sankey.png"
+  },
+  {
+    "filename": "korean_c1_mc_framework.png",
+    "style": "korean",
+    "theme": "c",
+    "types": [
+      "flow"
+    ],
+    "title": "MC 框架图",
+    "series": "C1",
+    "originalPath": "images/korean/C_MonteCarlo/korean_c1_mc_framework.png"
+  },
+  {
+    "filename": "korean_c2_distribution.png",
+    "style": "korean",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Violin 分布",
+    "series": "C2",
+    "originalPath": "images/korean/C_MonteCarlo/korean_c2_distribution.png"
+  },
+  {
+    "filename": "korean_c3_fanchart.png",
+    "style": "korean",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Fan Chart",
+    "series": "C3",
+    "originalPath": "images/korean/C_MonteCarlo/korean_c3_fanchart.png"
+  },
+  {
+    "filename": "korean_c4_forest_plot.png",
+    "style": "korean",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Tornado 图",
+    "series": "C4",
+    "originalPath": "images/korean/C_MonteCarlo/korean_c4_forest_plot.png"
+  },
+  {
+    "filename": "korean_c5_sobol.png",
+    "style": "korean",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Sobol 指数",
+    "series": "C5",
+    "originalPath": "images/korean/C_MonteCarlo/korean_c5_sobol.png"
+  },
+  {
+    "filename": "korean_d1_eclss_flow.png",
+    "style": "korean",
+    "theme": "d",
+    "types": [
+      "flow"
+    ],
+    "title": "ECLSS 系统流程",
+    "series": "D1",
+    "originalPath": "images/korean/D_ECLSS/korean_d1_eclss_flow.png"
+  },
+  {
+    "filename": "korean_d2_wrs.png",
+    "style": "korean",
+    "theme": "d",
+    "types": [
+      "flow"
+    ],
+    "title": "WRS 子系统",
+    "series": "D2",
+    "originalPath": "images/korean/D_ECLSS/korean_d2_wrs.png"
+  },
+  {
+    "filename": "korean_d3_water_sankey.png",
+    "style": "korean",
+    "theme": "d",
+    "types": [
+      "sankey"
+    ],
+    "title": "水量平衡 Sankey",
+    "series": "D3",
+    "originalPath": "images/korean/D_ECLSS/korean_d3_water_sankey.png"
+  },
+  {
+    "filename": "korean_d4_response_surface.png",
+    "style": "korean",
+    "theme": "d",
+    "types": [
+      "heatmap",
+      "3d"
+    ],
+    "title": "响应面图",
+    "series": "D4",
+    "originalPath": "images/korean/D_ECLSS/korean_d4_response_surface.png"
+  },
+  {
+    "filename": "korean_e1_emissions.png",
+    "style": "korean",
+    "theme": "e",
+    "types": [
+      "flow"
+    ],
+    "title": "排放影响路径",
+    "series": "E1",
+    "originalPath": "images/korean/E_LCA/korean_e1_emissions.png"
+  },
+  {
+    "filename": "korean_e2_feasible_region.png",
+    "style": "korean",
+    "theme": "e",
+    "types": [
+      "pareto"
+    ],
+    "title": "可行域分析",
+    "series": "E2",
+    "originalPath": "images/korean/E_LCA/korean_e2_feasible_region.png"
+  },
+  {
+    "filename": "korean_e3_3d_pareto.png",
+    "style": "korean",
+    "theme": "e",
+    "types": [
+      "pareto",
+      "3d"
+    ],
+    "title": "3D Pareto 曲面",
+    "series": "E3",
+    "originalPath": "images/korean/E_LCA/korean_e3_3d_pareto.png"
+  },
+  {
+    "filename": "korean_f1_architecture.png",
+    "style": "korean",
+    "theme": "f",
+    "types": [
+      "flow"
+    ],
+    "title": "DSS 架构图",
+    "series": "F1",
+    "originalPath": "images/korean/F_Narrative/korean_f1_architecture.png"
+  },
+  {
+    "filename": "korean_f2_dashboard.png",
+    "style": "korean",
+    "theme": "f",
+    "types": [
+      "flow"
+    ],
+    "title": "高管仪表盘",
+    "series": "F2",
+    "originalPath": "images/korean/F_Narrative/korean_f2_dashboard.png"
+  },
+  {
+    "filename": "nasa_a1_space_elevator.png",
+    "style": "nasa",
+    "theme": "a",
+    "types": [
+      "concept"
+    ],
+    "title": "太空电梯概念图",
+    "series": "A1",
+    "originalPath": "images/nasa/A_Background/nasa_a1_space_elevator.png"
+  },
+  {
+    "filename": "nasa_a2_three_ports.png",
+    "style": "nasa",
+    "theme": "a",
+    "types": [
+      "map"
+    ],
+    "title": "赤道三港分布",
+    "series": "A2",
+    "originalPath": "images/nasa/A_Background/nasa_a2_three_ports.png"
+  },
+  {
+    "filename": "nasa_a3_global_spaceports.png",
+    "style": "nasa",
+    "theme": "a",
+    "types": [
+      "map"
+    ],
+    "title": "全球发射场分布",
+    "series": "A3",
+    "originalPath": "images/nasa/A_Background/nasa_a3_global_spaceports.png"
+  },
+  {
+    "filename": "nasa_a4_deltav_budget.png",
+    "style": "nasa",
+    "theme": "a",
+    "types": [
+      "network"
+    ],
+    "title": "Δv 预算图",
+    "series": "A4",
+    "originalPath": "images/nasa/A_Background/nasa_a4_deltav_budget.png"
+  },
+  {
+    "filename": "nasa_b1_network_flow.png",
+    "style": "nasa",
+    "theme": "b",
+    "types": [
+      "network",
+      "flow"
+    ],
+    "title": "多层网络流图",
+    "series": "B1",
+    "originalPath": "images/nasa/B_MILP/nasa_b1_network_flow.png"
+  },
+  {
+    "filename": "nasa_b2_augmecon.png",
+    "style": "nasa",
+    "theme": "b",
+    "types": [
+      "flow"
+    ],
+    "title": "AUGMECON 流程",
+    "series": "B2",
+    "originalPath": "images/nasa/B_MILP/nasa_b2_augmecon.png"
+  },
+  {
+    "filename": "nasa_b3_pareto_front.png",
+    "style": "nasa",
+    "theme": "b",
+    "types": [
+      "pareto"
+    ],
+    "title": "Pareto 前沿",
+    "series": "B3",
+    "originalPath": "images/nasa/B_MILP/nasa_b3_pareto_front.png"
+  },
+  {
+    "filename": "nasa_b4_heatmap.png",
+    "style": "nasa",
+    "theme": "b",
+    "types": [
+      "heatmap"
+    ],
+    "title": "容量分配热力图",
+    "series": "B4",
+    "originalPath": "images/nasa/B_MILP/nasa_b4_heatmap.png"
+  },
+  {
+    "filename": "nasa_b5_sankey.png",
+    "style": "nasa",
+    "theme": "b",
+    "types": [
+      "sankey"
+    ],
+    "title": "物料流 Sankey",
+    "series": "B5",
+    "originalPath": "images/nasa/B_MILP/nasa_b5_sankey.png"
+  },
+  {
+    "filename": "nasa_c1_mc_framework.png",
+    "style": "nasa",
+    "theme": "c",
+    "types": [
+      "flow"
+    ],
+    "title": "MC 框架图",
+    "series": "C1",
+    "originalPath": "images/nasa/C_MonteCarlo/nasa_c1_mc_framework.png"
+  },
+  {
+    "filename": "nasa_c2_distribution.png",
+    "style": "nasa",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Violin 分布",
+    "series": "C2",
+    "originalPath": "images/nasa/C_MonteCarlo/nasa_c2_distribution.png"
+  },
+  {
+    "filename": "nasa_c3_fanchart.png",
+    "style": "nasa",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Fan Chart",
+    "series": "C3",
+    "originalPath": "images/nasa/C_MonteCarlo/nasa_c3_fanchart.png"
+  },
+  {
+    "filename": "nasa_c4_tornado.png",
+    "style": "nasa",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Tornado 图",
+    "series": "C4",
+    "originalPath": "images/nasa/C_MonteCarlo/nasa_c4_tornado.png"
+  },
+  {
+    "filename": "nasa_c5_sobol.png",
+    "style": "nasa",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Sobol 指数",
+    "series": "C5",
+    "originalPath": "images/nasa/C_MonteCarlo/nasa_c5_sobol.png"
+  },
+  {
+    "filename": "nasa_d1_eclss_flow.png",
+    "style": "nasa",
+    "theme": "d",
+    "types": [
+      "flow"
+    ],
+    "title": "ECLSS 系统流程",
+    "series": "D1",
+    "originalPath": "images/nasa/D_ECLSS/nasa_d1_eclss_flow.png"
+  },
+  {
+    "filename": "nasa_d2_wrs.png",
+    "style": "nasa",
+    "theme": "d",
+    "types": [
+      "flow"
+    ],
+    "title": "WRS 子系统",
+    "series": "D2",
+    "originalPath": "images/nasa/D_ECLSS/nasa_d2_wrs.png"
+  },
+  {
+    "filename": "nasa_d3_water_sankey.png",
+    "style": "nasa",
+    "theme": "d",
+    "types": [
+      "sankey"
+    ],
+    "title": "水量平衡 Sankey",
+    "series": "D3",
+    "originalPath": "images/nasa/D_ECLSS/nasa_d3_water_sankey.png"
+  },
+  {
+    "filename": "nasa_d4_response_surface.png",
+    "style": "nasa",
+    "theme": "d",
+    "types": [
+      "heatmap",
+      "3d"
+    ],
+    "title": "响应面图",
+    "series": "D4",
+    "originalPath": "images/nasa/D_ECLSS/nasa_d4_response_surface.png"
+  },
+  {
+    "filename": "nasa_e1_emissions.png",
+    "style": "nasa",
+    "theme": "e",
+    "types": [
+      "flow"
+    ],
+    "title": "排放影响路径",
+    "series": "E1",
+    "originalPath": "images/nasa/E_LCA/nasa_e1_emissions.png"
+  },
+  {
+    "filename": "nasa_e2_feasible_region.png",
+    "style": "nasa",
+    "theme": "e",
+    "types": [
+      "pareto"
+    ],
+    "title": "可行域分析",
+    "series": "E2",
+    "originalPath": "images/nasa/E_LCA/nasa_e2_feasible_region.png"
+  },
+  {
+    "filename": "nasa_e3_3d_pareto.png",
+    "style": "nasa",
+    "theme": "e",
+    "types": [
+      "pareto",
+      "3d"
+    ],
+    "title": "3D Pareto 曲面",
+    "series": "E3",
+    "originalPath": "images/nasa/E_LCA/nasa_e3_3d_pareto.png"
+  },
+  {
+    "filename": "nasa_f1_architecture.png",
+    "style": "nasa",
+    "theme": "f",
+    "types": [
+      "flow"
+    ],
+    "title": "DSS 架构图",
+    "series": "F1",
+    "originalPath": "images/nasa/F_Narrative/nasa_f1_architecture.png"
+  },
+  {
+    "filename": "nasa_f2_dashboard.png",
+    "style": "nasa",
+    "theme": "f",
+    "types": [
+      "flow"
+    ],
+    "title": "任务控制中心",
+    "series": "F2",
+    "originalPath": "images/nasa/F_Narrative/nasa_f2_dashboard.png"
+  },
+  {
+    "filename": "academic_a1_space_elevator.png",
+    "style": "academic",
+    "theme": "a",
+    "types": [
+      "concept"
+    ],
+    "title": "太空电梯概念图",
+    "series": "A1",
+    "originalPath": "images/academic/A_Background/academic_a1_space_elevator.png"
+  },
+  {
+    "filename": "academic_a2_three_ports.png",
+    "style": "academic",
+    "theme": "a",
+    "types": [
+      "map"
+    ],
+    "title": "赤道三港分布",
+    "series": "A2",
+    "originalPath": "images/academic/A_Background/academic_a2_three_ports.png"
+  },
+  {
+    "filename": "academic_a3_global_spaceports.png",
+    "style": "academic",
+    "theme": "a",
+    "types": [
+      "map"
+    ],
+    "title": "全球发射场分布",
+    "series": "A3",
+    "originalPath": "images/academic/A_Background/academic_a3_global_spaceports.png"
+  },
+  {
+    "filename": "academic_a4_deltav_budget.png",
+    "style": "academic",
+    "theme": "a",
+    "types": [
+      "network"
+    ],
+    "title": "Δv 预算图",
+    "series": "A4",
+    "originalPath": "images/academic/A_Background/academic_a4_deltav_budget.png"
+  },
+  {
+    "filename": "academic_b1_network_flow.png",
+    "style": "academic",
+    "theme": "b",
+    "types": [
+      "network",
+      "flow"
+    ],
+    "title": "多层网络流图",
+    "series": "B1",
+    "originalPath": "images/academic/B_MILP/academic_b1_network_flow.png"
+  },
+  {
+    "filename": "academic_b2_augmecon.png",
+    "style": "academic",
+    "theme": "b",
+    "types": [
+      "flow"
+    ],
+    "title": "AUGMECON 流程",
+    "series": "B2",
+    "originalPath": "images/academic/B_MILP/academic_b2_augmecon.png"
+  },
+  {
+    "filename": "academic_b3_pareto_front.png",
+    "style": "academic",
+    "theme": "b",
+    "types": [
+      "pareto"
+    ],
+    "title": "Pareto 前沿",
+    "series": "B3",
+    "originalPath": "images/academic/B_MILP/academic_b3_pareto_front.png"
+  },
+  {
+    "filename": "academic_b4_heatmap.png",
+    "style": "academic",
+    "theme": "b",
+    "types": [
+      "heatmap"
+    ],
+    "title": "容量分配热力图",
+    "series": "B4",
+    "originalPath": "images/academic/B_MILP/academic_b4_heatmap.png"
+  },
+  {
+    "filename": "academic_b5_sankey.png",
+    "style": "academic",
+    "theme": "b",
+    "types": [
+      "sankey"
+    ],
+    "title": "物料流 Sankey",
+    "series": "B5",
+    "originalPath": "images/academic/B_MILP/academic_b5_sankey.png"
+  },
+  {
+    "filename": "academic_c1_mc_framework.png",
+    "style": "academic",
+    "theme": "c",
+    "types": [
+      "flow"
+    ],
+    "title": "MC 框架图",
+    "series": "C1",
+    "originalPath": "images/academic/C_MonteCarlo/academic_c1_mc_framework.png"
+  },
+  {
+    "filename": "academic_c2_distribution.png",
+    "style": "academic",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Violin 分布",
+    "series": "C2",
+    "originalPath": "images/academic/C_MonteCarlo/academic_c2_distribution.png"
+  },
+  {
+    "filename": "academic_c3_fanchart.png",
+    "style": "academic",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Fan Chart",
+    "series": "C3",
+    "originalPath": "images/academic/C_MonteCarlo/academic_c3_fanchart.png"
+  },
+  {
+    "filename": "academic_c4_tornado.png",
+    "style": "academic",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Tornado 图",
+    "series": "C4",
+    "originalPath": "images/academic/C_MonteCarlo/academic_c4_tornado.png"
+  },
+  {
+    "filename": "academic_c5_sobol.png",
+    "style": "academic",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Sobol 指数",
+    "series": "C5",
+    "originalPath": "images/academic/C_MonteCarlo/academic_c5_sobol.png"
+  },
+  {
+    "filename": "academic_d1_eclss_flow.png",
+    "style": "academic",
+    "theme": "d",
+    "types": [
+      "flow"
+    ],
+    "title": "ECLSS 系统流程",
+    "series": "D1",
+    "originalPath": "images/academic/D_ECLSS/academic_d1_eclss_flow.png"
+  },
+  {
+    "filename": "academic_d2_wrs.png",
+    "style": "academic",
+    "theme": "d",
+    "types": [
+      "flow"
+    ],
+    "title": "WRS 子系统",
+    "series": "D2",
+    "originalPath": "images/academic/D_ECLSS/academic_d2_wrs.png"
+  },
+  {
+    "filename": "academic_d3_water_sankey.png",
+    "style": "academic",
+    "theme": "d",
+    "types": [
+      "sankey"
+    ],
+    "title": "水量平衡 Sankey",
+    "series": "D3",
+    "originalPath": "images/academic/D_ECLSS/academic_d3_water_sankey.png"
+  },
+  {
+    "filename": "academic_d4_response_surface.png",
+    "style": "academic",
+    "theme": "d",
+    "types": [
+      "heatmap",
+      "3d"
+    ],
+    "title": "响应面图",
+    "series": "D4",
+    "originalPath": "images/academic/D_ECLSS/academic_d4_response_surface.png"
+  },
+  {
+    "filename": "academic_e1_emissions.png",
+    "style": "academic",
+    "theme": "e",
+    "types": [
+      "flow"
+    ],
+    "title": "排放影响路径",
+    "series": "E1",
+    "originalPath": "images/academic/E_LCA/academic_e1_emissions.png"
+  },
+  {
+    "filename": "academic_e2_feasible_region.png",
+    "style": "academic",
+    "theme": "e",
+    "types": [
+      "pareto"
+    ],
+    "title": "可行域分析",
+    "series": "E2",
+    "originalPath": "images/academic/E_LCA/academic_e2_feasible_region.png"
+  },
+  {
+    "filename": "academic_e3_3d_pareto.png",
+    "style": "academic",
+    "theme": "e",
+    "types": [
+      "pareto",
+      "3d"
+    ],
+    "title": "3D Pareto 曲面",
+    "series": "E3",
+    "originalPath": "images/academic/E_LCA/academic_e3_3d_pareto.png"
+  },
+  {
+    "filename": "academic_f1_architecture.png",
+    "style": "academic",
+    "theme": "f",
+    "types": [
+      "flow"
+    ],
+    "title": "DSS 架构图",
+    "series": "F1",
+    "originalPath": "images/academic/F_Narrative/academic_f1_architecture.png"
+  },
+  {
+    "filename": "academic_f2_dashboard.png",
+    "style": "academic",
+    "theme": "f",
+    "types": [
+      "flow"
+    ],
+    "title": "高管仪表盘",
+    "series": "F2",
+    "originalPath": "images/academic/F_Narrative/academic_f2_dashboard.png"
+  },
+  {
+    "filename": "light_a1_space_elevator.png",
+    "style": "light",
+    "theme": "a",
+    "types": [
+      "concept"
+    ],
+    "title": "太空电梯概念图",
+    "series": "A1",
+    "originalPath": "images/light/A_Background/light_a1_space_elevator.png"
+  },
+  {
+    "filename": "light_a2_three_ports.png",
+    "style": "light",
+    "theme": "a",
+    "types": [
+      "map"
+    ],
+    "title": "赤道三港分布",
+    "series": "A2",
+    "originalPath": "images/light/A_Background/light_a2_three_ports.png"
+  },
+  {
+    "filename": "light_a3_global_spaceports.png",
+    "style": "light",
+    "theme": "a",
+    "types": [
+      "map"
+    ],
+    "title": "全球发射场分布",
+    "series": "A3",
+    "originalPath": "images/light/A_Background/light_a3_global_spaceports.png"
+  },
+  {
+    "filename": "light_a4_deltav_budget.png",
+    "style": "light",
+    "theme": "a",
+    "types": [
+      "network"
+    ],
+    "title": "Δv 预算图",
+    "series": "A4",
+    "originalPath": "images/light/A_Background/light_a4_deltav_budget.png"
+  },
+  {
+    "filename": "light_b1_network_flow.png",
+    "style": "light",
+    "theme": "b",
+    "types": [
+      "network",
+      "flow"
+    ],
+    "title": "多层网络流图",
+    "series": "B1",
+    "originalPath": "images/light/B_MILP/light_b1_network_flow.png"
+  },
+  {
+    "filename": "light_b2_augmecon.png",
+    "style": "light",
+    "theme": "b",
+    "types": [
+      "flow"
+    ],
+    "title": "AUGMECON 流程",
+    "series": "B2",
+    "originalPath": "images/light/B_MILP/light_b2_augmecon.png"
+  },
+  {
+    "filename": "light_b3_pareto_front.png",
+    "style": "light",
+    "theme": "b",
+    "types": [
+      "pareto"
+    ],
+    "title": "Pareto 前沿",
+    "series": "B3",
+    "originalPath": "images/light/B_MILP/light_b3_pareto_front.png"
+  },
+  {
+    "filename": "light_b4_heatmap.png",
+    "style": "light",
+    "theme": "b",
+    "types": [
+      "heatmap"
+    ],
+    "title": "容量分配热力图",
+    "series": "B4",
+    "originalPath": "images/light/B_MILP/light_b4_heatmap.png"
+  },
+  {
+    "filename": "light_b5_sankey.png",
+    "style": "light",
+    "theme": "b",
+    "types": [
+      "sankey"
+    ],
+    "title": "物料流 Sankey",
+    "series": "B5",
+    "originalPath": "images/light/B_MILP/light_b5_sankey.png"
+  },
+  {
+    "filename": "light_c1_mc_framework.png",
+    "style": "light",
+    "theme": "c",
+    "types": [
+      "flow"
+    ],
+    "title": "MC 框架图",
+    "series": "C1",
+    "originalPath": "images/light/C_MonteCarlo/light_c1_mc_framework.png"
+  },
+  {
+    "filename": "light_c2_distribution.png",
+    "style": "light",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Violin 分布",
+    "series": "C2",
+    "originalPath": "images/light/C_MonteCarlo/light_c2_distribution.png"
+  },
+  {
+    "filename": "light_c3_fanchart.png",
+    "style": "light",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Fan Chart",
+    "series": "C3",
+    "originalPath": "images/light/C_MonteCarlo/light_c3_fanchart.png"
+  },
+  {
+    "filename": "light_c4_tornado.png",
+    "style": "light",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Tornado 图",
+    "series": "C4",
+    "originalPath": "images/light/C_MonteCarlo/light_c4_tornado.png"
+  },
+  {
+    "filename": "light_c5_sobol.png",
+    "style": "light",
+    "theme": "c",
+    "types": [
+      "distribution"
+    ],
+    "title": "Sobol 指数",
+    "series": "C5",
+    "originalPath": "images/light/C_MonteCarlo/light_c5_sobol.png"
+  },
+  {
+    "filename": "light_d1_eclss_flow.png",
+    "style": "light",
+    "theme": "d",
+    "types": [
+      "flow"
+    ],
+    "title": "ECLSS 系统流程",
+    "series": "D1",
+    "originalPath": "images/light/D_ECLSS/light_d1_eclss_flow.png"
+  },
+  {
+    "filename": "light_d2_wrs.png",
+    "style": "light",
+    "theme": "d",
+    "types": [
+      "flow"
+    ],
+    "title": "WRS 子系统",
+    "series": "D2",
+    "originalPath": "images/light/D_ECLSS/light_d2_wrs.png"
+  },
+  {
+    "filename": "light_d3_water_sankey.png",
+    "style": "light",
+    "theme": "d",
+    "types": [
+      "sankey"
+    ],
+    "title": "水量平衡 Sankey",
+    "series": "D3",
+    "originalPath": "images/light/D_ECLSS/light_d3_water_sankey.png"
+  },
+  {
+    "filename": "light_d4_response_surface.png",
+    "style": "light",
+    "theme": "d",
+    "types": [
+      "heatmap",
+      "3d"
+    ],
+    "title": "响应面图",
+    "series": "D4",
+    "originalPath": "images/light/D_ECLSS/light_d4_response_surface.png"
+  },
+  {
+    "filename": "light_e1_emissions.png",
+    "style": "light",
+    "theme": "e",
+    "types": [
+      "flow"
+    ],
+    "title": "排放影响路径",
+    "series": "E1",
+    "originalPath": "images/light/E_LCA/light_e1_emissions.png"
+  },
+  {
+    "filename": "light_e2_feasible_region.png",
+    "style": "light",
+    "theme": "e",
+    "types": [
+      "pareto"
+    ],
+    "title": "可行域分析",
+    "series": "E2",
+    "originalPath": "images/light/E_LCA/light_e2_feasible_region.png"
+  },
+  {
+    "filename": "light_e3_3d_pareto.png",
+    "style": "light",
+    "theme": "e",
+    "types": [
+      "pareto",
+      "3d"
+    ],
+    "title": "3D Pareto 曲面",
+    "series": "E3",
+    "originalPath": "images/light/E_LCA/light_e3_3d_pareto.png"
+  },
+  {
+    "filename": "light_f1_architecture.png",
+    "style": "light",
+    "theme": "f",
+    "types": [
+      "flow"
+    ],
+    "title": "DSS 架构图",
+    "series": "F1",
+    "originalPath": "images/light/F_Narrative/light_f1_architecture.png"
+  },
+  {
+    "filename": "light_f2_dashboard.png",
+    "style": "light",
+    "theme": "f",
+    "types": [
+      "flow"
+    ],
+    "title": "高管仪表盘",
+    "series": "F2",
+    "originalPath": "images/light/F_Narrative/light_f2_dashboard.png"
+  }
+]

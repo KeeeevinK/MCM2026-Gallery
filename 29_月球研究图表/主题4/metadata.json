@@ -1,0 +1,97 @@
+[
+  {
+    "id": "4-COST-rockets_dataset_arXiv2023",
+    "suggested_filename": "4_rocket_launch_costs_arXiv_2023_Table1.png",
+    "author": "B. Ho & M. Li",
+    "year": "2023",
+    "paper_title": "Launch Vehicle High-Energy Performance Dataset",
+    "journal": "arXiv:2310.05994",
+    "figure_number": "Table 1",
+    "source_url": "http://arxiv.org/pdf/2310.05994.pdf",
+    "theme": "主题4",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 5.0,
+      "reproducibility": 5.0,
+      "topic_match": 5.0,
+      "source_reliability": 4.0,
+      "overall": 4.8
+    }
+  },
+  {
+    "id": "4-COST-rocket_comparison_web2023",
+    "suggested_filename": "4_rocket_cost_comparison_tech_2023_Fig1.png",
+    "author": "SpaceInsider Tech",
+    "year": "2023",
+    "paper_title": "How Much Does It Cost to Launch a Rocket?",
+    "journal": "SpaceInsider Blog",
+    "figure_number": "Figure 1",
+    "source_url": "https://spaceinsider.tech/2023/08/16/how-much-does-it-cost-to-launch-a-rocket/",
+    "theme": "主题4",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 5.0,
+      "reproducibility": 4.0,
+      "topic_match": 5.0,
+      "source_reliability": 3.0,
+      "overall": 4.2
+    }
+  },
+  {
+    "id": "4-COST-elevator_economics_Wiki2004",
+    "suggested_filename": "4_space_elevator_cost_Wikipedia_2004_Table1.png",
+    "author": "Wikipedia",
+    "year": "2004",
+    "paper_title": "Space elevator economics",
+    "journal": "Wikipedia/Edwards Proposal",
+    "figure_number": "Table",
+    "source_url": "https://en.wikipedia.org/wiki/Space_elevator_economics",
+    "theme": "主题4",
+    "scores": {
+      "scientific_quality": 3.0,
+      "info_density": 4.0,
+      "reproducibility": 4.0,
+      "topic_match": 5.0,
+      "source_reliability": 3.0,
+      "overall": 3.8
+    }
+  },
+  {
+    "id": "4-COST-owid_trends_2025",
+    "suggested_filename": "4_launch_cost_trends_OurWorldData_2025_Fig1.png",
+    "author": "Our World in Data",
+    "year": "2025",
+    "paper_title": "Cost of space launches to low Earth orbit",
+    "journal": "Our World in Data",
+    "figure_number": "Figure 1",
+    "source_url": "https://ourworldindata.org/grapher/cost-space-launches-low-earth-orbit",
+    "theme": "主题4",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 4.0,
+      "reproducibility": 5.0,
+      "topic_match": 4.0,
+      "source_reliability": 5.0,
+      "overall": 4.6
+    }
+  },
+  {
+    "id": "4-COST-spaceline_arXiv2019",
+    "suggested_filename": "4_spaceline_practical_elevator_arXiv_2019_Fig2.png",
+    "author": "R. Freeland et al.",
+    "year": "2019",
+    "paper_title": "The Spaceline: practical space elevator alternative",
+    "journal": "arXiv:1908.09339",
+    "figure_number": "Figure 2",
+    "source_url": "https://arxiv.org/pdf/1908.09339.pdf",
+    "theme": "主题4",
+    "scores": {
+      "scientific_quality": 3.0,
+      "info_density": 3.0,
+      "reproducibility": 2.0,
+      "topic_match": 5.0,
+      "source_reliability": 3.0,
+      "overall": 3.2
+    }
+  }
+]

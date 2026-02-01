@@ -1,0 +1,9 @@
+{
+    "name": "AI生成图表",
+    "id": "27",
+    "description": "AI生成的科研数据可视化图表，包含韩国学术、NASA、浅色学术、Light四种风格",
+    "source": "AI Generated (MCM Chart Gallery)",
+    "isAIGenerated": true,
+    "styles": ["korean", "nasa", "academic", "light"],
+    "themes": ["A_Background", "B_MILP", "C_MonteCarlo", "D_ECLSS", "E_LCA", "F_Narrative"]
+}

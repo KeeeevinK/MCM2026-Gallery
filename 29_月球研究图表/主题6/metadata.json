@@ -1,0 +1,116 @@
+[
+  {
+    "id": "6-LUNAR-logistics_NASA2008",
+    "suggested_filename": "6_lunar_logistics_flow_NASA_2008_Fig1.png",
+    "author": "S. Hill et al.",
+    "year": "2008",
+    "paper_title": "Logistics Modeling for Lunar Exploration Systems",
+    "journal": "NASA TM-2008-215150",
+    "figure_number": "Figure 1",
+    "source_url": "https://ntrs.nasa.gov/api/citations/20080040158/downloads/20080040158.pdf",
+    "theme": "主题6",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 5.0,
+      "reproducibility": 5.0,
+      "topic_match": 5.0,
+      "source_reliability": 5.0,
+      "overall": 5.0
+    }
+  },
+  {
+    "id": "6-LUNAR-flare_acta2020",
+    "suggested_filename": "6_lunar_flare_architecture_Acta_2020_Fig3.png",
+    "author": "M. Evans",
+    "year": "2020",
+    "paper_title": "A Flexible Lunar Architecture for Exploration (FLARE)",
+    "journal": "Acta Astronautica 177",
+    "figure_number": "Figure 3",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7385728/",
+    "theme": "主题6",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 4.0,
+      "reproducibility": 3.0,
+      "topic_match": 5.0,
+      "source_reliability": 5.0,
+      "overall": 4.2
+    }
+  },
+  {
+    "id": "6-LUNAR-isru_water_arXiv2024",
+    "suggested_filename": "6_lunar_water_management_arXiv_2024_Fig2.png",
+    "author": "G. Brown et al.",
+    "year": "2024",
+    "paper_title": "Water Management for Self-Sustaining Moonbase",
+    "journal": "arXiv:2405.14100",
+    "figure_number": "Figure 2",
+    "source_url": "https://arxiv.org/pdf/2405.14100.pdf",
+    "theme": "主题6",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 4.0,
+      "reproducibility": 3.0,
+      "topic_match": 5.0,
+      "source_reliability": 4.0,
+      "overall": 4.0
+    }
+  },
+  {
+    "id": "6-SUPPLY-multimodal_Utrecht2012",
+    "suggested_filename": "6_multimodal_network_optimization_Utrecht_2012_Fig3.png",
+    "author": "S. Brands & E. Viegas",
+    "year": "2012",
+    "paper_title": "Multi-objective optimization of multimodal transportation networks",
+    "journal": "Proc. WCTR",
+    "figure_number": "Figure 3",
+    "source_url": "https://ris.utwente.nl/ws/files/5425116/brands_2012.pdf",
+    "theme": "主题6",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 5.0,
+      "reproducibility": 4.0,
+      "topic_match": 4.0,
+      "source_reliability": 4.0,
+      "overall": 4.4
+    }
+  },
+  {
+    "id": "6-SUPPLY-satellite_cislunar_AIAA2018",
+    "suggested_filename": "6_cislunar_supply_pareto_AIAA_2018_Fig1.png",
+    "author": "J. Vallado et al.",
+    "year": "2018",
+    "paper_title": "Optimization of In-Space Supply Chain Design",
+    "journal": "AIAA/J. Guidance",
+    "figure_number": "Figure 1",
+    "source_url": "https://arc.aiaa.org/doi/10.2514/1.A34042",
+    "theme": "主题6",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 5.0,
+      "reproducibility": 3.0,
+      "topic_match": 5.0,
+      "source_reliability": 5.0,
+      "overall": 4.4
+    }
+  },
+  {
+    "id": "6-SPACE-elevator_arch_NSS2021",
+    "suggested_filename": "6_space_elevator_architecture_NSS_2021_Fig4.png",
+    "author": "J. Raitt et al.",
+    "year": "2021",
+    "paper_title": "Space Elevator Systems Architecture",
+    "journal": "NSS Report",
+    "figure_number": "Figure 4.3",
+    "source_url": "https://nss.org/wp-content/uploads/Space-Elevator-Systems-Architecture.pdf",
+    "theme": "主题6",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 5.0,
+      "reproducibility": 4.0,
+      "topic_match": 5.0,
+      "source_reliability": 5.0,
+      "overall": 4.8
+    }
+  }
+]

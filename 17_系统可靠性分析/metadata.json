@@ -1,0 +1,756 @@
+{
+  "topic": "17_系统可靠性分析",
+  "generated_at": "2026-02-01T23:19:04.773549",
+  "total_images": 47,
+  "images": [
+    {
+      "filename": "1210_5095v1_p11_img1.png",
+      "arxiv_id": "1210.5095v1",
+      "title": "Application of Bayesian Methods for Age-dependent Reliability Analysis",
+      "authors": [
+        "Robertas Alzbutas",
+        "Tomas Iešmantas"
+      ],
+      "published": "2012-10-18",
+      "arxiv_url": "http://arxiv.org/abs/1210.5095v1",
+      "pdf_url": "https://arxiv.org/pdf/1210.5095v1",
+      "page": 11,
+      "image_index": 1,
+      "file_size": 27940,
+      "format": "png"
+    },
+    {
+      "filename": "1210_5095v1_p12_img1.png",
+      "arxiv_id": "1210.5095v1",
+      "title": "Application of Bayesian Methods for Age-dependent Reliability Analysis",
+      "authors": [
+        "Robertas Alzbutas",
+        "Tomas Iešmantas"
+      ],
+      "published": "2012-10-18",
+      "arxiv_url": "http://arxiv.org/abs/1210.5095v1",
+      "pdf_url": "https://arxiv.org/pdf/1210.5095v1",
+      "page": 12,
+      "image_index": 1,
+      "file_size": 31379,
+      "format": "png"
+    },
+    {
+      "filename": "1210_5095v1_p14_img1.png",
+      "arxiv_id": "1210.5095v1",
+      "title": "Application of Bayesian Methods for Age-dependent Reliability Analysis",
+      "authors": [
+        "Robertas Alzbutas",
+        "Tomas Iešmantas"
+      ],
+      "published": "2012-10-18",
+      "arxiv_url": "http://arxiv.org/abs/1210.5095v1",
+      "pdf_url": "https://arxiv.org/pdf/1210.5095v1",
+      "page": 14,
+      "image_index": 1,
+      "file_size": 60401,
+      "format": "png"
+    },
+    {
+      "filename": "1210_5095v1_p15_img1.png",
+      "arxiv_id": "1210.5095v1",
+      "title": "Application of Bayesian Methods for Age-dependent Reliability Analysis",
+      "authors": [
+        "Robertas Alzbutas",
+        "Tomas Iešmantas"
+      ],
+      "published": "2012-10-18",
+      "arxiv_url": "http://arxiv.org/abs/1210.5095v1",
+      "pdf_url": "https://arxiv.org/pdf/1210.5095v1",
+      "page": 15,
+      "image_index": 1,
+      "file_size": 27200,
+      "format": "png"
+    },
+    {
+      "filename": "1210_5095v1_p17_img1.png",
+      "arxiv_id": "1210.5095v1",
+      "title": "Application of Bayesian Methods for Age-dependent Reliability Analysis",
+      "authors": [
+        "Robertas Alzbutas",
+        "Tomas Iešmantas"
+      ],
+      "published": "2012-10-18",
+      "arxiv_url": "http://arxiv.org/abs/1210.5095v1",
+      "pdf_url": "https://arxiv.org/pdf/1210.5095v1",
+      "page": 17,
+      "image_index": 1,
+      "file_size": 19974,
+      "format": "png"
+    },
+    {
+      "filename": "2206_11522v1_p1_img1.jpeg",
+      "arxiv_id": "2206.11522v1",
+      "title": "Modeling the System-Level Reliability towards a Convergence of Communication, Computing and Control",
+      "authors": [
+        "Bin Han",
+        "Hans D. Schotten"
+      ],
+      "published": "2022-06-23",
+      "arxiv_url": "http://arxiv.org/abs/2206.11522v1",
+      "pdf_url": "https://arxiv.org/pdf/2206.11522v1",
+      "page": 1,
+      "image_index": 1,
+      "file_size": 53095,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2206_11522v1_p3_img1.jpeg",
+      "arxiv_id": "2206.11522v1",
+      "title": "Modeling the System-Level Reliability towards a Convergence of Communication, Computing and Control",
+      "authors": [
+        "Bin Han",
+        "Hans D. Schotten"
+      ],
+      "published": "2022-06-23",
+      "arxiv_url": "http://arxiv.org/abs/2206.11522v1",
+      "pdf_url": "https://arxiv.org/pdf/2206.11522v1",
+      "page": 3,
+      "image_index": 1,
+      "file_size": 22784,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2206_11522v1_p3_img2.jpeg",
+      "arxiv_id": "2206.11522v1",
+      "title": "Modeling the System-Level Reliability towards a Convergence of Communication, Computing and Control",
+      "authors": [
+        "Bin Han",
+        "Hans D. Schotten"
+      ],
+      "published": "2022-06-23",
+      "arxiv_url": "http://arxiv.org/abs/2206.11522v1",
+      "pdf_url": "https://arxiv.org/pdf/2206.11522v1",
+      "page": 3,
+      "image_index": 2,
+      "file_size": 94758,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2206_11522v1_p4_img1.jpeg",
+      "arxiv_id": "2206.11522v1",
+      "title": "Modeling the System-Level Reliability towards a Convergence of Communication, Computing and Control",
+      "authors": [
+        "Bin Han",
+        "Hans D. Schotten"
+      ],
+      "published": "2022-06-23",
+      "arxiv_url": "http://arxiv.org/abs/2206.11522v1",
+      "pdf_url": "https://arxiv.org/pdf/2206.11522v1",
+      "page": 4,
+      "image_index": 1,
+      "file_size": 146535,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2206_11522v1_p4_img2.jpeg",
+      "arxiv_id": "2206.11522v1",
+      "title": "Modeling the System-Level Reliability towards a Convergence of Communication, Computing and Control",
+      "authors": [
+        "Bin Han",
+        "Hans D. Schotten"
+      ],
+      "published": "2022-06-23",
+      "arxiv_url": "http://arxiv.org/abs/2206.11522v1",
+      "pdf_url": "https://arxiv.org/pdf/2206.11522v1",
+      "page": 4,
+      "image_index": 2,
+      "file_size": 199028,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1404_6830v1_p1_img1.png",
+      "arxiv_id": "1404.6830v1",
+      "title": "Orthogonal Fault Tolerance for Dynamically Adaptive Systems",
+      "authors": [
+        "Sobia K Khan"
+      ],
+      "published": "2014-04-27",
+      "arxiv_url": "http://arxiv.org/abs/1404.6830v1",
+      "pdf_url": "https://arxiv.org/pdf/1404.6830v1",
+      "page": 1,
+      "image_index": 1,
+      "file_size": 10855,
+      "format": "png"
+    },
+    {
+      "filename": "1404_6830v1_p2_img1.png",
+      "arxiv_id": "1404.6830v1",
+      "title": "Orthogonal Fault Tolerance for Dynamically Adaptive Systems",
+      "authors": [
+        "Sobia K Khan"
+      ],
+      "published": "2014-04-27",
+      "arxiv_url": "http://arxiv.org/abs/1404.6830v1",
+      "pdf_url": "https://arxiv.org/pdf/1404.6830v1",
+      "page": 2,
+      "image_index": 1,
+      "file_size": 11808,
+      "format": "png"
+    },
+    {
+      "filename": "1404_6830v1_p2_img2.jpeg",
+      "arxiv_id": "1404.6830v1",
+      "title": "Orthogonal Fault Tolerance for Dynamically Adaptive Systems",
+      "authors": [
+        "Sobia K Khan"
+      ],
+      "published": "2014-04-27",
+      "arxiv_url": "http://arxiv.org/abs/1404.6830v1",
+      "pdf_url": "https://arxiv.org/pdf/1404.6830v1",
+      "page": 2,
+      "image_index": 2,
+      "file_size": 5179,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2203_07830v1_p6_img1.jpeg",
+      "arxiv_id": "2203.07830v1",
+      "title": "A Survey of fault models and fault tolerance methods for 2D bus-based multi-core systems and TSV based 3D NOC many-core systems",
+      "authors": [
+        "Shashikiran Venkatesha",
+        "Ranjani Parthasarathi"
+      ],
+      "published": "2022-03-15",
+      "arxiv_url": "http://arxiv.org/abs/2203.07830v1",
+      "pdf_url": "https://arxiv.org/pdf/2203.07830v1",
+      "page": 6,
+      "image_index": 1,
+      "file_size": 65181,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2203_07830v1_p28_img1.jpeg",
+      "arxiv_id": "2203.07830v1",
+      "title": "A Survey of fault models and fault tolerance methods for 2D bus-based multi-core systems and TSV based 3D NOC many-core systems",
+      "authors": [
+        "Shashikiran Venkatesha",
+        "Ranjani Parthasarathi"
+      ],
+      "published": "2022-03-15",
+      "arxiv_url": "http://arxiv.org/abs/2203.07830v1",
+      "pdf_url": "https://arxiv.org/pdf/2203.07830v1",
+      "page": 28,
+      "image_index": 1,
+      "file_size": 73548,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2203_07830v1_p29_img1.jpeg",
+      "arxiv_id": "2203.07830v1",
+      "title": "A Survey of fault models and fault tolerance methods for 2D bus-based multi-core systems and TSV based 3D NOC many-core systems",
+      "authors": [
+        "Shashikiran Venkatesha",
+        "Ranjani Parthasarathi"
+      ],
+      "published": "2022-03-15",
+      "arxiv_url": "http://arxiv.org/abs/2203.07830v1",
+      "pdf_url": "https://arxiv.org/pdf/2203.07830v1",
+      "page": 29,
+      "image_index": 1,
+      "file_size": 117667,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2203_07830v1_p29_img2.jpeg",
+      "arxiv_id": "2203.07830v1",
+      "title": "A Survey of fault models and fault tolerance methods for 2D bus-based multi-core systems and TSV based 3D NOC many-core systems",
+      "authors": [
+        "Shashikiran Venkatesha",
+        "Ranjani Parthasarathi"
+      ],
+      "published": "2022-03-15",
+      "arxiv_url": "http://arxiv.org/abs/2203.07830v1",
+      "pdf_url": "https://arxiv.org/pdf/2203.07830v1",
+      "page": 29,
+      "image_index": 2,
+      "file_size": 59139,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1710_05204v2_p16_img1.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 16,
+      "image_index": 1,
+      "file_size": 40876,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p16_img2.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 16,
+      "image_index": 2,
+      "file_size": 40374,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p17_img1.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 17,
+      "image_index": 1,
+      "file_size": 54077,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p17_img2.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 17,
+      "image_index": 2,
+      "file_size": 45419,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p17_img3.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 17,
+      "image_index": 3,
+      "file_size": 55513,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p22_img1.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 22,
+      "image_index": 1,
+      "file_size": 146481,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p24_img1.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 24,
+      "image_index": 1,
+      "file_size": 25645,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p24_img2.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 24,
+      "image_index": 2,
+      "file_size": 22318,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p25_img1.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 25,
+      "image_index": 1,
+      "file_size": 23365,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p25_img2.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 25,
+      "image_index": 2,
+      "file_size": 24041,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p26_img1.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 26,
+      "image_index": 1,
+      "file_size": 47378,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p26_img2.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 26,
+      "image_index": 2,
+      "file_size": 36332,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p26_img3.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 26,
+      "image_index": 3,
+      "file_size": 38431,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p26_img4.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 26,
+      "image_index": 4,
+      "file_size": 36912,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p26_img5.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 26,
+      "image_index": 5,
+      "file_size": 36242,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p26_img6.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 26,
+      "image_index": 6,
+      "file_size": 47166,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p26_img7.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 26,
+      "image_index": 7,
+      "file_size": 41297,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p26_img8.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 26,
+      "image_index": 8,
+      "file_size": 37563,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p26_img9.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 26,
+      "image_index": 9,
+      "file_size": 37934,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p26_img10.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 26,
+      "image_index": 10,
+      "file_size": 39352,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p27_img1.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 27,
+      "image_index": 1,
+      "file_size": 27513,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p27_img2.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 27,
+      "image_index": 2,
+      "file_size": 26857,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p28_img1.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 28,
+      "image_index": 1,
+      "file_size": 42559,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p28_img2.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 28,
+      "image_index": 2,
+      "file_size": 38460,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p28_img3.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 28,
+      "image_index": 3,
+      "file_size": 46111,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p28_img4.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 28,
+      "image_index": 4,
+      "file_size": 47439,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p34_img1.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 34,
+      "image_index": 1,
+      "file_size": 25684,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p34_img2.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 34,
+      "image_index": 2,
+      "file_size": 21941,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p34_img3.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 34,
+      "image_index": 3,
+      "file_size": 21113,
+      "format": "png"
+    },
+    {
+      "filename": "1710_05204v2_p34_img4.png",
+      "arxiv_id": "1710.05204v2",
+      "title": "Sequential Design and Spatial Modeling for Portfolio Tail Risk Measurement",
+      "authors": [
+        "Michael Ludkovski",
+        "James Risk"
+      ],
+      "published": "2017-10-14",
+      "arxiv_url": "http://arxiv.org/abs/1710.05204v2",
+      "pdf_url": "https://arxiv.org/pdf/1710.05204v2",
+      "page": 34,
+      "image_index": 4,
+      "file_size": 20051,
+      "format": "png"
+    }
+  ]
+}

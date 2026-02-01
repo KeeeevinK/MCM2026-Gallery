@@ -1,0 +1,22 @@
+{
+  "topic": "09_Epsilon约束法",
+  "generated_at": "2026-02-01T23:10:13.567398",
+  "total_images": 1,
+  "images": [
+    {
+      "filename": "2301_09166v1_p18_img1.png",
+      "arxiv_id": "2301.09166v1",
+      "title": "Multi-objective Optimization: A Case Study",
+      "authors": [
+        "Nazmul Hasan"
+      ],
+      "published": "2023-01-22",
+      "arxiv_url": "http://arxiv.org/abs/2301.09166v1",
+      "pdf_url": "https://arxiv.org/pdf/2301.09166v1",
+      "page": 18,
+      "image_index": 1,
+      "file_size": 30502,
+      "format": "png"
+    }
+  ]
+}

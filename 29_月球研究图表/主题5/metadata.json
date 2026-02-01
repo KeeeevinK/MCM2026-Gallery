@@ -1,0 +1,116 @@
+[
+  {
+    "id": "5-TRL-guidebook_DoD2025",
+    "suggested_filename": "5_trl_scale_DoD_2025_Fig1.png",
+    "author": "USD(R&E)",
+    "year": "2025",
+    "paper_title": "Technology Readiness Assessment Guidebook",
+    "journal": "DoD Official",
+    "figure_number": "Figure 1",
+    "source_url": "https://www.cto.mil/wp-content/uploads/2025/03/TRA-Guide-Feb2025.v2-Cleared.pdf",
+    "theme": "主题5",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 4.0,
+      "reproducibility": 5.0,
+      "topic_match": 5.0,
+      "source_reliability": 5.0,
+      "overall": 4.8
+    }
+  },
+  {
+    "id": "5-TRL-screening_CMU2002",
+    "suggested_filename": "5_trl_decision_flow_CMU_2002_Fig3.png",
+    "author": "M. Brown et al.",
+    "year": "2002",
+    "paper_title": "Using TRL Scale to Support Technology Screening",
+    "journal": "CMU/SEI",
+    "figure_number": "Figure 3",
+    "source_url": "https://www.sei.cmu.edu/asset_files/specialreport/2002_003_001_13931.pdf",
+    "theme": "主题5",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 4.0,
+      "reproducibility": 4.0,
+      "topic_match": 4.0,
+      "source_reliability": 4.0,
+      "overall": 4.0
+    }
+  },
+  {
+    "id": "5-FHWA-trl_assessment_2017",
+    "suggested_filename": "5_trl_assessment_FHWA_2017_Fig2.png",
+    "author": "FHWA",
+    "year": "2017",
+    "paper_title": "Technology Readiness Level Assessment",
+    "journal": "FHWA Guidelines",
+    "figure_number": "Figure 2",
+    "source_url": "https://www.fhwa.dot.gov/publications/research/ear/17047/17047.pdf",
+    "theme": "主题5",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 3.0,
+      "reproducibility": 4.0,
+      "topic_match": 4.0,
+      "source_reliability": 5.0,
+      "overall": 4.0
+    }
+  },
+  {
+    "id": "5-TRADESPACE-atsv_visual_Penn2007",
+    "suggested_filename": "5_tradespace_3d_atsv_Penn_2007_Fig4.png",
+    "author": "Gary et al.",
+    "year": "2007",
+    "paper_title": "Advanced Visualization Techniques for Trade Space Exploration",
+    "journal": "AIAA-2007-1878",
+    "figure_number": "Figure 4",
+    "source_url": "https://www.atsv.psu.edu/webdocs/AIAA-2007-1878-108.pdf",
+    "theme": "主题5",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 5.0,
+      "reproducibility": 4.0,
+      "topic_match": 4.0,
+      "source_reliability": 5.0,
+      "overall": 4.6
+    }
+  },
+  {
+    "id": "5-TRADESPACE-ross_apollo_MIT2010",
+    "suggested_filename": "5_tradespace_satellite_MIT_2010_Fig5.png",
+    "author": "D. Ross et al.",
+    "year": "2010",
+    "paper_title": "Revisiting the Tradespace Exploration Paradigm",
+    "journal": "AIAA-2010",
+    "figure_number": "Figure 5",
+    "source_url": "https://seari.mit.edu/documents/preprints/ROSS_TSE_AIAA10.pdf",
+    "theme": "主题5",
+    "scores": {
+      "scientific_quality": 4.0,
+      "info_density": 4.0,
+      "reproducibility": 3.0,
+      "topic_match": 3.0,
+      "source_reliability": 4.0,
+      "overall": 3.6
+    }
+  },
+  {
+    "id": "5-FEASIBILITY-suas_aiaa2023",
+    "suggested_filename": "5_feasibility_pareto_suas_AIAA_2023_Fig2.png",
+    "author": "B. Sells et al.",
+    "year": "2023",
+    "paper_title": "Optimization and Decision-Making Framework for Small UAS",
+    "journal": "AIAA",
+    "figure_number": "Figure 2",
+    "source_url": "https://arc.aiaa.org/doi/10.2514/1.C036330",
+    "theme": "主题5",
+    "scores": {
+      "scientific_quality": 5.0,
+      "info_density": 5.0,
+      "reproducibility": 4.0,
+      "topic_match": 3.0,
+      "source_reliability": 5.0,
+      "overall": 4.4
+    }
+  }
+]

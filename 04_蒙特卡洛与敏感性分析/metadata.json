@@ -1,0 +1,296 @@
+{
+  "topic": "04_蒙特卡洛与敏感性分析",
+  "generated_at": "2026-02-01T23:09:07.370642",
+  "total_images": 17,
+  "images": [
+    {
+      "filename": "1211_6569v1_p2_img1.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 2,
+      "image_index": 1,
+      "file_size": 131958,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p2_img2.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 2,
+      "image_index": 2,
+      "file_size": 28666,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p3_img1.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 3,
+      "image_index": 1,
+      "file_size": 20350,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p3_img2.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 3,
+      "image_index": 2,
+      "file_size": 98716,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p3_img3.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 3,
+      "image_index": 3,
+      "file_size": 97852,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p3_img4.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 3,
+      "image_index": 4,
+      "file_size": 97436,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p3_img5.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 3,
+      "image_index": 5,
+      "file_size": 97868,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p3_img6.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 3,
+      "image_index": 6,
+      "file_size": 97507,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p3_img7.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 3,
+      "image_index": 7,
+      "file_size": 96591,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p4_img1.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 4,
+      "image_index": 1,
+      "file_size": 18252,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p4_img2.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 4,
+      "image_index": 2,
+      "file_size": 30512,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p4_img3.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 4,
+      "image_index": 3,
+      "file_size": 16196,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p4_img4.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 4,
+      "image_index": 4,
+      "file_size": 215420,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p4_img6.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 4,
+      "image_index": 6,
+      "file_size": 20099,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p4_img7.jpeg",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 4,
+      "image_index": 7,
+      "file_size": 21969,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1211_6569v1_p5_img1.png",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 5,
+      "image_index": 1,
+      "file_size": 8133,
+      "format": "png"
+    },
+    {
+      "filename": "1211_6569v1_p5_img2.png",
+      "arxiv_id": "1211.6569v1",
+      "title": "A solar tornado triggered by flares?",
+      "authors": [
+        "N. K. Panesar",
+        "D. E. Innes",
+        "S. K. Tiwari"
+      ],
+      "published": "2012-11-28",
+      "arxiv_url": "http://arxiv.org/abs/1211.6569v1",
+      "pdf_url": "https://arxiv.org/pdf/1211.6569v1",
+      "page": 5,
+      "image_index": 2,
+      "file_size": 7109,
+      "format": "png"
+    }
+  ]
+}

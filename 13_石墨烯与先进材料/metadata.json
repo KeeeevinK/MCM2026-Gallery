@@ -1,0 +1,936 @@
+{
+  "topic": "13_石墨烯与先进材料",
+  "generated_at": "2026-02-01T23:15:53.432096",
+  "total_images": 59,
+  "images": [
+    {
+      "filename": "1512_01122v1_p5_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 5,
+      "image_index": 1,
+      "file_size": 17460,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p6_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 6,
+      "image_index": 1,
+      "file_size": 23146,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p7_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 7,
+      "image_index": 1,
+      "file_size": 34018,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p7_img2.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 7,
+      "image_index": 2,
+      "file_size": 21501,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p9_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 9,
+      "image_index": 1,
+      "file_size": 29099,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p11_img1.png",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 11,
+      "image_index": 1,
+      "file_size": 120595,
+      "format": "png"
+    },
+    {
+      "filename": "1512_01122v1_p11_img2.png",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 11,
+      "image_index": 2,
+      "file_size": 223594,
+      "format": "png"
+    },
+    {
+      "filename": "1512_01122v1_p13_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 13,
+      "image_index": 1,
+      "file_size": 31646,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p13_img2.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 13,
+      "image_index": 2,
+      "file_size": 24745,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p14_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 14,
+      "image_index": 1,
+      "file_size": 30378,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p16_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 16,
+      "image_index": 1,
+      "file_size": 20894,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p16_img2.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 16,
+      "image_index": 2,
+      "file_size": 24775,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p16_img3.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 16,
+      "image_index": 3,
+      "file_size": 24087,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p17_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 17,
+      "image_index": 1,
+      "file_size": 31182,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p18_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 18,
+      "image_index": 1,
+      "file_size": 32300,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p19_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 19,
+      "image_index": 1,
+      "file_size": 29384,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p20_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 20,
+      "image_index": 1,
+      "file_size": 42120,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p21_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 21,
+      "image_index": 1,
+      "file_size": 42397,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p21_img2.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 21,
+      "image_index": 2,
+      "file_size": 50008,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p22_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 22,
+      "image_index": 1,
+      "file_size": 50293,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p23_img1.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 23,
+      "image_index": 1,
+      "file_size": 25455,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1512_01122v1_p23_img2.jpeg",
+      "arxiv_id": "1512.01122v1",
+      "title": "Quantum Capacitance of Graphene Sheets and Nanoribbons",
+      "authors": [
+        "George S. Kliros"
+      ],
+      "published": "2015-12-03",
+      "arxiv_url": "http://arxiv.org/abs/1512.01122v1",
+      "pdf_url": "https://arxiv.org/pdf/1512.01122v1",
+      "page": 23,
+      "image_index": 2,
+      "file_size": 25060,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2511_15467v1_p12_img1.jpeg",
+      "arxiv_id": "2511.15467v1",
+      "title": "Experimental and Theoretical Aspects of the Fragmentation of Carbon's Single and Multi-Walled Nanotubes",
+      "authors": [
+        "Sumera Javeed",
+        "Shoaib Ahmad"
+      ],
+      "published": "2025-11-19",
+      "arxiv_url": "http://arxiv.org/abs/2511.15467v1",
+      "pdf_url": "https://arxiv.org/pdf/2511.15467v1",
+      "page": 12,
+      "image_index": 1,
+      "file_size": 84293,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2511_15467v1_p41_img1.jpeg",
+      "arxiv_id": "2511.15467v1",
+      "title": "Experimental and Theoretical Aspects of the Fragmentation of Carbon's Single and Multi-Walled Nanotubes",
+      "authors": [
+        "Sumera Javeed",
+        "Shoaib Ahmad"
+      ],
+      "published": "2025-11-19",
+      "arxiv_url": "http://arxiv.org/abs/2511.15467v1",
+      "pdf_url": "https://arxiv.org/pdf/2511.15467v1",
+      "page": 41,
+      "image_index": 1,
+      "file_size": 38567,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2511_15467v1_p47_img1.jpeg",
+      "arxiv_id": "2511.15467v1",
+      "title": "Experimental and Theoretical Aspects of the Fragmentation of Carbon's Single and Multi-Walled Nanotubes",
+      "authors": [
+        "Sumera Javeed",
+        "Shoaib Ahmad"
+      ],
+      "published": "2025-11-19",
+      "arxiv_url": "http://arxiv.org/abs/2511.15467v1",
+      "pdf_url": "https://arxiv.org/pdf/2511.15467v1",
+      "page": 47,
+      "image_index": 1,
+      "file_size": 58079,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2109_13918v1_p2_img1.jpeg",
+      "arxiv_id": "2109.13918v1",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "published": "2021-09-20",
+      "arxiv_url": "http://arxiv.org/abs/2109.13918v1",
+      "pdf_url": "https://arxiv.org/pdf/2109.13918v1",
+      "page": 2,
+      "image_index": 1,
+      "file_size": 79165,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2109_13918v1_p4_img1.jpeg",
+      "arxiv_id": "2109.13918v1",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "published": "2021-09-20",
+      "arxiv_url": "http://arxiv.org/abs/2109.13918v1",
+      "pdf_url": "https://arxiv.org/pdf/2109.13918v1",
+      "page": 4,
+      "image_index": 1,
+      "file_size": 38610,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2109_13918v1_p4_img2.jpeg",
+      "arxiv_id": "2109.13918v1",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "published": "2021-09-20",
+      "arxiv_url": "http://arxiv.org/abs/2109.13918v1",
+      "pdf_url": "https://arxiv.org/pdf/2109.13918v1",
+      "page": 4,
+      "image_index": 2,
+      "file_size": 86407,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2109_13918v1_p5_img5.jpeg",
+      "arxiv_id": "2109.13918v1",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "published": "2021-09-20",
+      "arxiv_url": "http://arxiv.org/abs/2109.13918v1",
+      "pdf_url": "https://arxiv.org/pdf/2109.13918v1",
+      "page": 5,
+      "image_index": 5,
+      "file_size": 84649,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2109_13918v1_p6_img1.jpeg",
+      "arxiv_id": "2109.13918v1",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "published": "2021-09-20",
+      "arxiv_url": "http://arxiv.org/abs/2109.13918v1",
+      "pdf_url": "https://arxiv.org/pdf/2109.13918v1",
+      "page": 6,
+      "image_index": 1,
+      "file_size": 148088,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2109_13918v1_p9_img1.jpeg",
+      "arxiv_id": "2109.13918v1",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "published": "2021-09-20",
+      "arxiv_url": "http://arxiv.org/abs/2109.13918v1",
+      "pdf_url": "https://arxiv.org/pdf/2109.13918v1",
+      "page": 9,
+      "image_index": 1,
+      "file_size": 109785,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2109_13918v1_p12_img1.jpeg",
+      "arxiv_id": "2109.13918v1",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "published": "2021-09-20",
+      "arxiv_url": "http://arxiv.org/abs/2109.13918v1",
+      "pdf_url": "https://arxiv.org/pdf/2109.13918v1",
+      "page": 12,
+      "image_index": 1,
+      "file_size": 129459,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2109_13918v1_p13_img1.jpeg",
+      "arxiv_id": "2109.13918v1",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "published": "2021-09-20",
+      "arxiv_url": "http://arxiv.org/abs/2109.13918v1",
+      "pdf_url": "https://arxiv.org/pdf/2109.13918v1",
+      "page": 13,
+      "image_index": 1,
+      "file_size": 52957,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2109_13918v1_p13_img2.jpeg",
+      "arxiv_id": "2109.13918v1",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "published": "2021-09-20",
+      "arxiv_url": "http://arxiv.org/abs/2109.13918v1",
+      "pdf_url": "https://arxiv.org/pdf/2109.13918v1",
+      "page": 13,
+      "image_index": 2,
+      "file_size": 52349,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2109_13918v1_p14_img1.jpeg",
+      "arxiv_id": "2109.13918v1",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "published": "2021-09-20",
+      "arxiv_url": "http://arxiv.org/abs/2109.13918v1",
+      "pdf_url": "https://arxiv.org/pdf/2109.13918v1",
+      "page": 14,
+      "image_index": 1,
+      "file_size": 55717,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2109_13918v1_p14_img2.jpeg",
+      "arxiv_id": "2109.13918v1",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "published": "2021-09-20",
+      "arxiv_url": "http://arxiv.org/abs/2109.13918v1",
+      "pdf_url": "https://arxiv.org/pdf/2109.13918v1",
+      "page": 14,
+      "image_index": 2,
+      "file_size": 42478,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2109_13918v1_p15_img1.jpeg",
+      "arxiv_id": "2109.13918v1",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "published": "2021-09-20",
+      "arxiv_url": "http://arxiv.org/abs/2109.13918v1",
+      "pdf_url": "https://arxiv.org/pdf/2109.13918v1",
+      "page": 15,
+      "image_index": 1,
+      "file_size": 55809,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2109_13918v1_p15_img2.jpeg",
+      "arxiv_id": "2109.13918v1",
+      "title": "Toxicity of Carbon Nanomaterials",
+      "authors": [
+        "Arpita Adhikari",
+        "Joydip Sengupta"
+      ],
+      "published": "2021-09-20",
+      "arxiv_url": "http://arxiv.org/abs/2109.13918v1",
+      "pdf_url": "https://arxiv.org/pdf/2109.13918v1",
+      "page": 15,
+      "image_index": 2,
+      "file_size": 66187,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1205_5318v1_p14_img1.jpeg",
+      "arxiv_id": "1205.5318v1",
+      "title": "CuBr2-A New Multiferroic Material with High Critical Temperature",
+      "authors": [
+        "L. Zhao",
+        "T. L. Hung",
+        "C. C. Li"
+      ],
+      "published": "2012-05-24",
+      "arxiv_url": "http://arxiv.org/abs/1205.5318v1",
+      "pdf_url": "https://arxiv.org/pdf/1205.5318v1",
+      "page": 14,
+      "image_index": 1,
+      "file_size": 183276,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1205_5318v1_p15_img1.jpeg",
+      "arxiv_id": "1205.5318v1",
+      "title": "CuBr2-A New Multiferroic Material with High Critical Temperature",
+      "authors": [
+        "L. Zhao",
+        "T. L. Hung",
+        "C. C. Li"
+      ],
+      "published": "2012-05-24",
+      "arxiv_url": "http://arxiv.org/abs/1205.5318v1",
+      "pdf_url": "https://arxiv.org/pdf/1205.5318v1",
+      "page": 15,
+      "image_index": 1,
+      "file_size": 16885,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1205_5318v1_p15_img2.jpeg",
+      "arxiv_id": "1205.5318v1",
+      "title": "CuBr2-A New Multiferroic Material with High Critical Temperature",
+      "authors": [
+        "L. Zhao",
+        "T. L. Hung",
+        "C. C. Li"
+      ],
+      "published": "2012-05-24",
+      "arxiv_url": "http://arxiv.org/abs/1205.5318v1",
+      "pdf_url": "https://arxiv.org/pdf/1205.5318v1",
+      "page": 15,
+      "image_index": 2,
+      "file_size": 17014,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1205_5318v1_p15_img3.jpeg",
+      "arxiv_id": "1205.5318v1",
+      "title": "CuBr2-A New Multiferroic Material with High Critical Temperature",
+      "authors": [
+        "L. Zhao",
+        "T. L. Hung",
+        "C. C. Li"
+      ],
+      "published": "2012-05-24",
+      "arxiv_url": "http://arxiv.org/abs/1205.5318v1",
+      "pdf_url": "https://arxiv.org/pdf/1205.5318v1",
+      "page": 15,
+      "image_index": 3,
+      "file_size": 16150,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1205_5318v1_p16_img1.jpeg",
+      "arxiv_id": "1205.5318v1",
+      "title": "CuBr2-A New Multiferroic Material with High Critical Temperature",
+      "authors": [
+        "L. Zhao",
+        "T. L. Hung",
+        "C. C. Li"
+      ],
+      "published": "2012-05-24",
+      "arxiv_url": "http://arxiv.org/abs/1205.5318v1",
+      "pdf_url": "https://arxiv.org/pdf/1205.5318v1",
+      "page": 16,
+      "image_index": 1,
+      "file_size": 25048,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1205_5318v1_p16_img2.jpeg",
+      "arxiv_id": "1205.5318v1",
+      "title": "CuBr2-A New Multiferroic Material with High Critical Temperature",
+      "authors": [
+        "L. Zhao",
+        "T. L. Hung",
+        "C. C. Li"
+      ],
+      "published": "2012-05-24",
+      "arxiv_url": "http://arxiv.org/abs/1205.5318v1",
+      "pdf_url": "https://arxiv.org/pdf/1205.5318v1",
+      "page": 16,
+      "image_index": 2,
+      "file_size": 24650,
+      "format": "jpeg"
+    },
+    {
+      "filename": "1205_5318v1_p16_img3.jpeg",
+      "arxiv_id": "1205.5318v1",
+      "title": "CuBr2-A New Multiferroic Material with High Critical Temperature",
+      "authors": [
+        "L. Zhao",
+        "T. L. Hung",
+        "C. C. Li"
+      ],
+      "published": "2012-05-24",
+      "arxiv_url": "http://arxiv.org/abs/1205.5318v1",
+      "pdf_url": "https://arxiv.org/pdf/1205.5318v1",
+      "page": 16,
+      "image_index": 3,
+      "file_size": 25706,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p3_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 3,
+      "image_index": 1,
+      "file_size": 588932,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p9_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 9,
+      "image_index": 1,
+      "file_size": 143308,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p13_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 13,
+      "image_index": 1,
+      "file_size": 321204,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p15_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 15,
+      "image_index": 1,
+      "file_size": 230916,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p18_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 18,
+      "image_index": 1,
+      "file_size": 238644,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p23_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 23,
+      "image_index": 1,
+      "file_size": 173260,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p32_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 32,
+      "image_index": 1,
+      "file_size": 106780,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p35_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 35,
+      "image_index": 1,
+      "file_size": 224500,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p38_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 38,
+      "image_index": 1,
+      "file_size": 527572,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p42_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 42,
+      "image_index": 1,
+      "file_size": 560000,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p44_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 44,
+      "image_index": 1,
+      "file_size": 225084,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p47_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 47,
+      "image_index": 1,
+      "file_size": 160620,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p49_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 49,
+      "image_index": 1,
+      "file_size": 353976,
+      "format": "jpeg"
+    },
+    {
+      "filename": "2508_04952v1_p53_img1.jpeg",
+      "arxiv_id": "2508.04952v1",
+      "title": "Magnetic Anisotropy in Two-dimensional van der Waals Magnetic Materials and Their Heterostructures: Importance, Mechanisms, and Opportunities",
+      "authors": [
+        "Yusheng Hou",
+        "Ruqian Wu"
+      ],
+      "published": "2025-08-07",
+      "arxiv_url": "http://arxiv.org/abs/2508.04952v1",
+      "pdf_url": "https://arxiv.org/pdf/2508.04952v1",
+      "page": 53,
+      "image_index": 1,
+      "file_size": 232984,
+      "format": "jpeg"
+    }
+  ]
+}
